@@ -1,0 +1,2172 @@
+[
+  {
+    "id": 1372443,
+    "usersid_hash": "$2a$12$MQ0KfxToAb3GnX/ZdVIKzuZ1fhiTf7R3pWTpmh8PfMu5Nw3vrxWS2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-01 12:42:22",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1060783,
+    "usersid_hash": "$2b$10$2TD6z6DyuWMMFnVRu8ByceR.F8UX6o3aGeBheO4AZ8gLN2fNSfBf2",
+    "role": "user",
+    "text": "Включи видео на youtube",
+    "actions": "",
+    "created_at": "2026-08-18 04:15:58",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1181151,
+    "usersid_hash": "$2b$10$AT0G8sB3rcL7EUIVVoh1W.8TQv4wWAYLsaazqssR9jXH5p0B4Tffy",
+    "role": "user",
+    "text": "Открой youtube и найди фильм новый 2026 года боевик русский",
+    "actions": "",
+    "created_at": "2026-09-16 08:08:33",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 928796,
+    "usersid_hash": "$2b$10$BKFB.ODEULPR.R2C8BG5zu1b452IVi2lynVWY33fyMYE/ElwgYxUu",
+    "role": "user",
+    "text": "Светлана включи youtube",
+    "actions": "",
+    "created_at": "2026-07-18 11:28:42",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 928802,
+    "usersid_hash": "$2b$10$BKFB.ODEULPR.R2C8BG5zu1b452IVi2lynVWY33fyMYE/ElwgYxUu",
+    "role": "user",
+    "text": "Светлана включи музыку",
+    "actions": "",
+    "created_at": "2026-07-18 11:29:12",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1025186,
+    "usersid_hash": "$2b$10$FWgz.xwmREx0ru0H4v8HTe6XDxmSW4dbHN.oVjQuAVEXFExKYvTVi",
+    "role": "user",
+    "text": "Включи песню анжелики варум на youtube",
+    "actions": "",
+    "created_at": "2026-08-10 08:40:14",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1029825,
+    "usersid_hash": "$2b$10$FWgz.xwmREx0ru0H4v8HTe6XDxmSW4dbHN.oVjQuAVEXFExKYvTVi",
+    "role": "user",
+    "text": "Включи анжелику варум на youtube",
+    "actions": "",
+    "created_at": "2026-08-11 09:25:35",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373469,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube и закрой шторку",
+    "actions": "",
+    "created_at": "2026-11-01 16:04:02",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373471,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи песню рехама",
+    "actions": "",
+    "created_at": "2026-11-01 16:04:43",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373475,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Зайди в youtube включи песню рейхана",
+    "actions": "",
+    "created_at": "2026-11-01 16:05:16",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373477,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube включи песню рейхан африка",
+    "actions": "",
+    "created_at": "2026-11-01 16:05:43",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373479,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube поставь включи музыку с африки",
+    "actions": "",
+    "created_at": "2026-11-01 16:06:12",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373487,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube песня инигм",
+    "actions": "",
+    "created_at": "2026-11-01 16:08:04",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373491,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube рейхамма африка",
+    "actions": "",
+    "created_at": "2026-11-01 16:09:00",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373563,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи ютуб ехама Африка песня.",
+    "actions": "",
+    "created_at": "2026-11-01 16:29:04",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373567,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи песню я хабиби",
+    "actions": "",
+    "created_at": "2026-11-01 16:29:35",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373605,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи ютуб песню рэйхана Африка.",
+    "actions": "",
+    "created_at": "2026-11-01 16:35:47",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373625,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи включи youtube",
+    "actions": "",
+    "created_at": "2026-11-01 16:39:39",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373627,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи песню юлии усмановой",
+    "actions": "",
+    "created_at": "2026-11-01 16:40:02",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373631,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube найди песню юлии усмановой",
+    "actions": "",
+    "created_at": "2026-11-01 16:40:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373703,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой экран пассажира и включи youtube",
+    "actions": "",
+    "created_at": "2026-11-01 16:51:57",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373709,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube на пассажирском экране",
+    "actions": "",
+    "created_at": "2026-11-01 16:52:32",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373715,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube на правом сиденье",
+    "actions": "",
+    "created_at": "2026-11-01 16:52:56",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373717,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube на правом экране",
+    "actions": "",
+    "created_at": "2026-11-01 16:53:21",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373719,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube на пассажирском экране справа",
+    "actions": "",
+    "created_at": "2026-11-01 16:53:43",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373727,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube африка музыка рейхана",
+    "actions": "",
+    "created_at": "2026-11-01 16:54:33",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373757,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube",
+    "actions": "",
+    "created_at": "2026-11-01 16:58:53",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373759,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи песню",
+    "actions": "",
+    "created_at": "2026-11-01 16:59:08",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373761,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube включи музыку африка",
+    "actions": "",
+    "created_at": "2026-11-01 16:59:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373765,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Youtube включи песню рейхана африка",
+    "actions": "",
+    "created_at": "2026-11-01 16:59:53",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373769,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи песню рейхана африка",
+    "actions": "",
+    "created_at": "2026-11-01 17:00:27",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1373773,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube включи африка",
+    "actions": "",
+    "created_at": "2026-11-01 17:00:42",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1375447,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube бобо",
+    "actions": "",
+    "created_at": "2026-11-02 08:15:31",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1375457,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube марко",
+    "actions": "",
+    "created_at": "2026-11-02 08:16:58",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1379526,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube пейхана африка",
+    "actions": "",
+    "created_at": "2026-11-03 08:13:41",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1379528,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube включи песню рейхана африка рейхана",
+    "actions": "",
+    "created_at": "2026-11-03 08:14:08",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1379534,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Youtube открой рейхана африка",
+    "actions": "",
+    "created_at": "2026-11-03 08:15:15",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1379536,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Открой youtube включи марко песня",
+    "actions": "",
+    "created_at": "2026-11-03 08:15:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383109,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube арабская музыка",
+    "actions": "",
+    "created_at": "2026-11-04 04:55:09",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383117,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube арабская музыка",
+    "actions": "",
+    "created_at": "2026-11-04 04:56:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383135,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube арабская музыка",
+    "actions": "",
+    "created_at": "2026-11-04 04:58:01",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383223,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube музыка",
+    "actions": "",
+    "created_at": "2026-11-04 05:17:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383227,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube",
+    "actions": "",
+    "created_at": "2026-11-04 05:18:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383307,
+    "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "role": "user",
+    "text": "Включи youtube",
+    "actions": "",
+    "created_at": "2026-11-04 05:34:12",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1300129,
+    "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+    "role": "user",
+    "text": "Открой ютуб закрой окно открой шторку извините.",
+    "actions": "",
+    "created_at": "2026-10-14 15:19:17",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1303561,
+    "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-10-15 13:24:53",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1303569,
+    "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+    "role": "user",
+    "text": "Поставь песню",
+    "actions": "",
+    "created_at": "2026-10-15 13:25:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1303573,
+    "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+    "role": "user",
+    "text": "Поставь песню",
+    "actions": "",
+    "created_at": "2026-10-15 13:25:51",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1336172,
+    "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-10-23 13:51:09",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1211606,
+    "usersid_hash": "$2b$10$is9RRm5YYjbFvlmu5BKLv.CcNEwHDTbLlpkakqM.LxoMuPJfxDnqC",
+    "role": "user",
+    "text": "Включи навигацию и яндекс музыку",
+    "actions": "",
+    "created_at": "2026-09-23 10:22:18",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 907467,
+    "usersid_hash": "$2b$10$rIjhaTMsPuOAfiktojQFuuU3dBZziSUe9UnA/ZRWU9E.kQQeu4GBu",
+    "role": "user",
+    "text": "Поставь пожалуйста чилаут музыку",
+    "actions": "",
+    "created_at": "2026-07-13 10:51:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1236148,
+    "usersid_hash": "$2b$12$/Q.lto9AsqnGJTF/43bmjuDaBSJYW740JYbILS7qkMAdDJu2qFK3C",
+    "role": "user",
+    "text": "Поставь песню",
+    "actions": "",
+    "created_at": "2026-09-29 09:21:54",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1192052,
+    "usersid_hash": "$2b$12$1cbUfYCHI6u3ewdJ4/rci.6AYVNmQax9/Md5zF8P5lToOfj23mW2G",
+    "role": "user",
+    "text": "Включи радио",
+    "actions": "",
+    "created_at": "2026-09-18 16:08:51",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1208261,
+    "usersid_hash": "$2b$12$2idErowsTt9PkC7cTe5Zt.xusSKItNdSWBOicj22QJeQp9LEuTuyW",
+    "role": "user",
+    "text": "youtubedan yaxshi kino qoʻl qoʻy",
+    "actions": "",
+    "created_at": "2026-09-22 13:34:59",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1228473,
+    "usersid_hash": "$2b$12$2idErowsTt9PkC7cTe5Zt.xusSKItNdSWBOicj22QJeQp9LEuTuyW",
+    "role": "user",
+    "text": "youtube dan bizaga yaxshi multfilm qoʻy",
+    "actions": "",
+    "created_at": "2026-09-27 11:08:33",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 752760,
+    "usersid_hash": "$2b$12$2usEIvtUfdusNMk0scB8vO.y9C9CgOs2U3ha.WsEiW9OMOafi6Phq",
+    "role": "user",
+    "text": "Света поставь песню больше чем ближе",
+    "actions": "",
+    "created_at": "2026-05-31 08:28:41",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1360038,
+    "usersid_hash": "$2b$12$486V5Btgw1YFH4A1/5wdvuRT6WV8I7wNl82ZWKYUOE0.Jj/roUPFe",
+    "role": "user",
+    "text": "arka manitonun youtube ini och",
+    "actions": "",
+    "created_at": "2026-10-29 12:51:09",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1381338,
+    "usersid_hash": "$2b$12$486V5Btgw1YFH4A1/5wdvuRT6WV8I7wNl82ZWKYUOE0.Jj/roUPFe",
+    "role": "user",
+    "text": "youtube dan vaynlarni qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-11-03 13:48:38",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1381352,
+    "usersid_hash": "$2b$12$486V5Btgw1YFH4A1/5wdvuRT6WV8I7wNl82ZWKYUOE0.Jj/roUPFe",
+    "role": "user",
+    "text": "orqa ekranlar youtube dan vaynlarni qoʻying",
+    "actions": "",
+    "created_at": "2026-11-03 13:50:54",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1381404,
+    "usersid_hash": "$2b$12$486V5Btgw1YFH4A1/5wdvuRT6WV8I7wNl82ZWKYUOE0.Jj/roUPFe",
+    "role": "user",
+    "text": "orka ekrandan youtubedan vaynlar qoʻy",
+    "actions": "",
+    "created_at": "2026-11-03 14:00:26",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1322981,
+    "usersid_hash": "$2b$12$5IxG.eqWJ.G.VcxL.ZlsK.sTU91NSPQwAtEbd3DUU7eMzgg3F1xHe",
+    "role": "user",
+    "text": "Youtube включи",
+    "actions": "",
+    "created_at": "2026-10-20 10:59:01",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1345598,
+    "usersid_hash": "$2b$12$5IxG.eqWJ.G.VcxL.ZlsK.sTU91NSPQwAtEbd3DUU7eMzgg3F1xHe",
+    "role": "user",
+    "text": "Света включи youtube",
+    "actions": "",
+    "created_at": "2026-10-26 02:16:26",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1354402,
+    "usersid_hash": "$2b$12$5IxG.eqWJ.G.VcxL.ZlsK.sTU91NSPQwAtEbd3DUU7eMzgg3F1xHe",
+    "role": "user",
+    "text": "Света включи youtube",
+    "actions": "",
+    "created_at": "2026-10-28 07:16:34",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 383572,
+    "usersid_hash": "$2b$12$5u8c/h8550Gh.6tvRHAp/uS6r9JUurCar1F55ZmVqu8DmuRMbvOwa",
+    "role": "user",
+    "text": "Открой youtube поставьте шерали журай",
+    "actions": "",
+    "created_at": "2026-01-31 08:39:26",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1343170,
+    "usersid_hash": "$2b$12$730GQ2c./aFg2LV13xB7u.HyY0Q8ohzcVPPk.rO7plEXK8s0unqB.",
+    "role": "user",
+    "text": "Включи мне группу снэп на youtube",
+    "actions": "",
+    "created_at": "2026-10-25 09:20:35",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1344598,
+    "usersid_hash": "$2b$12$730GQ2c./aFg2LV13xB7u.HyY0Q8ohzcVPPk.rO7plEXK8s0unqB.",
+    "role": "user",
+    "text": "Поставь клип снеп на youtube",
+    "actions": "",
+    "created_at": "2026-10-25 14:19:39",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1344604,
+    "usersid_hash": "$2b$12$730GQ2c./aFg2LV13xB7u.HyY0Q8ohzcVPPk.rO7plEXK8s0unqB.",
+    "role": "user",
+    "text": "Поставь клип снеп на youtube",
+    "actions": "",
+    "created_at": "2026-10-25 14:20:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1355098,
+    "usersid_hash": "$2b$12$730GQ2c./aFg2LV13xB7u.HyY0Q8ohzcVPPk.rO7plEXK8s0unqB.",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-10-28 10:08:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1257219,
+    "usersid_hash": "$2b$12$76OqGgZM5azwPmTcuuzaoOpLkMScLafAoJB8h0OfSEQ7Dop8PkMx6",
+    "role": "user",
+    "text": "Света открой youtube",
+    "actions": "",
+    "created_at": "2026-10-04 11:27:16",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 911318,
+    "usersid_hash": "$2b$12$7EiPpF1Ruea3rjxZXqzDOuXoTSQRWM17tFbVhLhYcG7wbFOq5Mpf2",
+    "role": "user",
+    "text": "madina youtube dan yahyobek noʻmerovni oʻxshatolmayman qoʻshigʻini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-07-14 09:23:08",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 911432,
+    "usersid_hash": "$2b$12$7EiPpF1Ruea3rjxZXqzDOuXoTSQRWM17tFbVhLhYcG7wbFOq5Mpf2",
+    "role": "user",
+    "text": "madina youtube dan yahyobek moʻminovni oʻxshatolmayman qoʻshigʻini qoʻydi",
+    "actions": "",
+    "created_at": "2026-07-14 09:52:54",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 911502,
+    "usersid_hash": "$2b$12$7EiPpF1Ruea3rjxZXqzDOuXoTSQRWM17tFbVhLhYcG7wbFOq5Mpf2",
+    "role": "user",
+    "text": "madina youtube da pauzada turgan musiqani qoʻydi",
+    "actions": "",
+    "created_at": "2026-07-14 10:05:03",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 911842,
+    "usersid_hash": "$2b$12$7EiPpF1Ruea3rjxZXqzDOuXoTSQRWM17tFbVhLhYcG7wbFOq5Mpf2",
+    "role": "user",
+    "text": "Madina yutubda yaxyobek bu meni to'xtatolmayman qo'shig'ini qo'yib ber.",
+    "actions": "",
+    "created_at": "2026-07-14 11:54:02",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 917529,
+    "usersid_hash": "$2b$12$7EiPpF1Ruea3rjxZXqzDOuXoTSQRWM17tFbVhLhYcG7wbFOq5Mpf2",
+    "role": "user",
+    "text": "madina youtube dan ulugʻbek rahmatullaevni yulduz qoʻshigʻini qoʻydi",
+    "actions": "",
+    "created_at": "2026-07-15 14:58:10",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1199942,
+    "usersid_hash": "$2b$12$7fJ7eRFfETQPuMR4SfAVHe.Iy1NKymLAEGqhdspe0Xj.ccnc2SUC6",
+    "role": "user",
+    "text": "Youtube включи youtube",
+    "actions": "",
+    "created_at": "2026-09-20 13:55:45",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1291869,
+    "usersid_hash": "$2b$12$7jQqgFY/0OoeRFPw115r1uGiBNE6Nc4zMi8PkPOQOYetPmo.Jp546",
+    "role": "user",
+    "text": "По поводу музыки ты можешь включить радио вообще?",
+    "actions": "",
+    "created_at": "2026-10-12 15:08:35",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1320510,
+    "usersid_hash": "$2b$12$8x00PbvjV7975iU1FTU8PuVFsm0fiXbrquu4F2BwU1J/LWbZN2ap6",
+    "role": "user",
+    "text": "Света открой youtube",
+    "actions": "",
+    "created_at": "2026-10-19 15:54:08",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1279728,
+    "usersid_hash": "$2b$12$95.cjnAsdnjon2oVFFcHpOSPZhuKQT6jVs6W.eWW4UsxG0nhb8cZS",
+    "role": "user",
+    "text": "hey alisa youtube dan sherali juraevni qoy",
+    "actions": "",
+    "created_at": "2026-10-09 17:38:27",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1060281,
+    "usersid_hash": "$2b$12$9K3JcbqNFcIF9bOO2Ixvh.Hcmc6eRA4dyvpKM4ew8eqb0RXUA3Nhe",
+    "role": "user",
+    "text": "boshim ogʻriyapti biron 1 sokin musiqa qoʻygan youtubedan",
+    "actions": "",
+    "created_at": "2026-08-17 18:37:45",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1007701,
+    "usersid_hash": "$2b$12$9cNU1plBpWUcyY9oTEAlC.u7KkehJQYGIs5Ju7UvypAMmZ8SN8Cs6",
+    "role": "user",
+    "text": "alisa youtube ni och",
+    "actions": "",
+    "created_at": "2026-08-06 07:54:18",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1382182,
+    "usersid_hash": "$2b$12$CfXjuJAWqsEFRwPJZgG9iOA7VZKlzYpb79nVQiEellPO/lCeeHRgm",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-11-03 16:57:03",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1385621,
+    "usersid_hash": "$2b$12$CfXjuJAWqsEFRwPJZgG9iOA7VZKlzYpb79nVQiEellPO/lCeeHRgm",
+    "role": "user",
+    "text": "Включи музыку",
+    "actions": "",
+    "created_at": "2026-11-04 13:17:05",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1182767,
+    "usersid_hash": "$2b$12$Dtv9tPzhOylrxAbNqg0JKOo85NoJwp1YYhrnn27G6yj/J.OOt3VoS",
+    "role": "user",
+    "text": "Открой яндекс музыку",
+    "actions": "",
+    "created_at": "2026-09-16 14:01:48",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 585911,
+    "usersid_hash": "$2b$12$ENaS4.b7Df6oPuUfGNYl7e1TYKWKPYvWJvXYszd0KKOGd2hK1YK5C",
+    "role": "user",
+    "text": "Света открой приложение яндекс музыка",
+    "actions": "",
+    "created_at": "2026-04-11 17:12:59",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 585918,
+    "usersid_hash": "$2b$12$ENaS4.b7Df6oPuUfGNYl7e1TYKWKPYvWJvXYszd0KKOGd2hK1YK5C",
+    "role": "user",
+    "text": "Света открой приложение яндекс музыка",
+    "actions": "",
+    "created_at": "2026-04-11 17:14:24",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 585921,
+    "usersid_hash": "$2b$12$ENaS4.b7Df6oPuUfGNYl7e1TYKWKPYvWJvXYszd0KKOGd2hK1YK5C",
+    "role": "user",
+    "text": "Света открой приложение youtube",
+    "actions": "",
+    "created_at": "2026-04-11 17:15:03",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 600193,
+    "usersid_hash": "$2b$12$Fos9/FtM9VTGwdSi6QG7BuYWuVm6fNlgs15r2EEy7wG3klfmOFuKy",
+    "role": "user",
+    "text": "Включи youtube на заднем экране",
+    "actions": "",
+    "created_at": "2026-04-16 11:55:18",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 600203,
+    "usersid_hash": "$2b$12$Fos9/FtM9VTGwdSi6QG7BuYWuVm6fNlgs15r2EEy7wG3klfmOFuKy",
+    "role": "user",
+    "text": "Поставь музыку",
+    "actions": "",
+    "created_at": "2026-04-16 11:57:42",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1342216,
+    "usersid_hash": "$2b$12$G1V3jbahAjmzE0Lnz0CBg.d/n6VVOg83WMEW/0JMQNuKX3khTKiVy",
+    "role": "user",
+    "text": "youtube programmasini och",
+    "actions": "",
+    "created_at": "2026-10-25 06:02:23",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1342220,
+    "usersid_hash": "$2b$12$G1V3jbahAjmzE0Lnz0CBg.d/n6VVOg83WMEW/0JMQNuKX3khTKiVy",
+    "role": "user",
+    "text": "youtube ilovasini och",
+    "actions": "",
+    "created_at": "2026-10-25 06:03:00",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1263676,
+    "usersid_hash": "$2b$12$GHt8vyp3EBFQhsqxi2V6Me7YmJLV2RKAoL/NfN9MsP6vkE5mCn9dq",
+    "role": "user",
+    "text": "alisa eshit indiyskiy musiqalardan qoʻy",
+    "actions": "",
+    "created_at": "2026-10-06 03:58:11",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1316139,
+    "usersid_hash": "$2b$12$GXUqRmVIB1V9ONGLevPNA.ZQR5i4f/.M7Zsrwvb7yQdDocRfjmA9e",
+    "role": "user",
+    "text": "Открой ютуб поставь песню крепче за баранкой держи шофёр.",
+    "actions": "",
+    "created_at": "2026-10-18 13:48:11",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1156080,
+    "usersid_hash": "$2b$12$GobLkC/NvFTKeVWirDuHyuNJRSHmnzcrHT1KKJGx9yCeHukJnRUk2",
+    "role": "user",
+    "text": "Поставь на youtube клип базовый минимум",
+    "actions": "",
+    "created_at": "2026-09-10 03:01:07",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1382259,
+    "usersid_hash": "$2b$12$IT6oKi2zKgKFg03Ddo3ua.aK6s0OkrLDyf2Sf5QJ/MxLjkAHS92Om",
+    "role": "user",
+    "text": "Поставь музыку шерали джураев",
+    "actions": "",
+    "created_at": "2026-11-03 17:13:27",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 875040,
+    "usersid_hash": "$2b$12$JLK/yn3EkkF3IcZJE2Y1v.zPjomSAqfFCRN9Ztv6UQfFQ2zw2T0lu",
+    "role": "user",
+    "text": "manga youtube dan sherali joʻraevni qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-07-05 10:20:25",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 880767,
+    "usersid_hash": "$2b$12$JLK/yn3EkkF3IcZJE2Y1v.zPjomSAqfFCRN9Ztv6UQfFQ2zw2T0lu",
+    "role": "user",
+    "text": "madina orqa monitorda youtube dan sherali joʻraevni qoʻy",
+    "actions": "",
+    "created_at": "2026-07-06 16:44:47",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 883205,
+    "usersid_hash": "$2b$12$JLK/yn3EkkF3IcZJE2Y1v.zPjomSAqfFCRN9Ztv6UQfFQ2zw2T0lu",
+    "role": "user",
+    "text": "madina youtube dan sherali joʻraev musiqasini qoʻydi",
+    "actions": "",
+    "created_at": "2026-07-07 10:22:09",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 885185,
+    "usersid_hash": "$2b$12$JLK/yn3EkkF3IcZJE2Y1v.zPjomSAqfFCRN9Ztv6UQfFQ2zw2T0lu",
+    "role": "user",
+    "text": "madina youtube nu och",
+    "actions": "",
+    "created_at": "2026-07-07 17:26:08",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1023206,
+    "usersid_hash": "$2b$12$JQaqaKsvqzHEuqUCPzo5d.MJ9AjWlmBl92hp5KyU3RHXG9iWZyrba",
+    "role": "user",
+    "text": "madina kayfiyatni koʻtaradigan birorta qoʻshiq qoʻy bergan",
+    "actions": "",
+    "created_at": "2026-08-09 17:08:33",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1337234,
+    "usersid_hash": "$2b$12$JV84RbqT57ELrJ8QGWv1XeHwbLPyaYmEBnWAMKGbV6gXYmu7reIPC",
+    "role": "user",
+    "text": "alisa manga youtubedan shohjahon jurʻatni oʻtadigan qoʻshigʻini qoʻyib ey",
+    "actions": "",
+    "created_at": "2026-10-23 19:31:39",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1340916,
+    "usersid_hash": "$2b$12$JV84RbqT57ELrJ8QGWv1XeHwbLPyaYmEBnWAMKGbV6gXYmu7reIPC",
+    "role": "user",
+    "text": "halisa youtube dan eng oxirgi trenddagi qoʻshiqchi qoʻyib biri",
+    "actions": "",
+    "created_at": "2026-10-24 16:36:11",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1378043,
+    "usersid_hash": "$2b$12$JV84RbqT57ELrJ8QGWv1XeHwbLPyaYmEBnWAMKGbV6gXYmu7reIPC",
+    "role": "user",
+    "text": "alisa youtubeda manga sherali joʻrayev musiqasini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-11-02 18:58:42",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1378045,
+    "usersid_hash": "$2b$12$JV84RbqT57ELrJ8QGWv1XeHwbLPyaYmEBnWAMKGbV6gXYmu7reIPC",
+    "role": "user",
+    "text": "alisa youtubeda maʻlumot uchun hozir siz uchun sherali joʻrayevning musiqalarini youtubedan topib qoʻyib beraman",
+    "actions": "",
+    "created_at": "2026-11-02 18:58:54",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1378049,
+    "usersid_hash": "$2b$12$JV84RbqT57ELrJ8QGWv1XeHwbLPyaYmEBnWAMKGbV6gXYmu7reIPC",
+    "role": "user",
+    "text": "alisa manga youtubedan yoqubjon",
+    "actions": "",
+    "created_at": "2026-11-02 19:00:36",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1315243,
+    "usersid_hash": "$2b$12$KBTiRCtFDZhmub6/Xr4MKOCUMrCOJSq1byu3FxVBw2R7ut/3IW0ca",
+    "role": "user",
+    "text": "youtube da nodirbek xolboevni dada sizni yaxshi koʻraman qoʻshigʻini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-18 11:00:13",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1319613,
+    "usersid_hash": "$2b$12$KBTiRCtFDZhmub6/Xr4MKOCUMrCOJSq1byu3FxVBw2R7ut/3IW0ca",
+    "role": "user",
+    "text": "youtube dan vaqtinchalik shamol qoʻshigʻini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-19 12:54:43",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1333362,
+    "usersid_hash": "$2b$12$KBTiRCtFDZhmub6/Xr4MKOCUMrCOJSq1byu3FxVBw2R7ut/3IW0ca",
+    "role": "user",
+    "text": "youtube dan vaqtinchalik shamol qoʻzgʻagini qoʻyib berdi",
+    "actions": "",
+    "created_at": "2026-10-23 02:16:10",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1333366,
+    "usersid_hash": "$2b$12$KBTiRCtFDZhmub6/Xr4MKOCUMrCOJSq1byu3FxVBw2R7ut/3IW0ca",
+    "role": "user",
+    "text": "youtube dan vaqtinchalik shamol qoʻshigʻini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-23 02:17:01",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1101595,
+    "usersid_hash": "$2b$12$LLobJSHG5fNvfkFKDyRwP.cQgr7rv02abcQATqLTdQ3j7xjmBw6Lu",
+    "role": "user",
+    "text": "youtube dan yulduz usmonovani qoʻshiqlarini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-08-27 14:53:24",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1102494,
+    "usersid_hash": "$2b$12$LLobJSHG5fNvfkFKDyRwP.cQgr7rv02abcQATqLTdQ3j7xjmBw6Lu",
+    "role": "user",
+    "text": "youtube dan masha medvedev qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-08-27 17:49:10",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1149581,
+    "usersid_hash": "$2b$12$LLobJSHG5fNvfkFKDyRwP.cQgr7rv02abcQATqLTdQ3j7xjmBw6Lu",
+    "role": "user",
+    "text": "Открой youtube останови музыку",
+    "actions": "",
+    "created_at": "2026-09-08 10:17:56",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1149595,
+    "usersid_hash": "$2b$12$LLobJSHG5fNvfkFKDyRwP.cQgr7rv02abcQATqLTdQ3j7xjmBw6Lu",
+    "role": "user",
+    "text": "Открой youtube поставь песню адель",
+    "actions": "",
+    "created_at": "2026-09-08 10:21:36",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1149601,
+    "usersid_hash": "$2b$12$LLobJSHG5fNvfkFKDyRwP.cQgr7rv02abcQATqLTdQ3j7xjmBw6Lu",
+    "role": "user",
+    "text": "Открой ютуб поставь любую песню Адель.",
+    "actions": "",
+    "created_at": "2026-09-08 10:22:42",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 587850,
+    "usersid_hash": "$2b$12$MnRrqan.h.g2uT.qw818pOGPm9rj5hGVKZ6uKoCC/fFr/RKTkkgSa",
+    "role": "user",
+    "text": "youtube dan yulduz usmonovani qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-04-12 12:01:38",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 595457,
+    "usersid_hash": "$2b$12$MnRrqan.h.g2uT.qw818pOGPm9rj5hGVKZ6uKoCC/fFr/RKTkkgSa",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-04-15 04:00:36",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 596163,
+    "usersid_hash": "$2b$12$MnRrqan.h.g2uT.qw818pOGPm9rj5hGVKZ6uKoCC/fFr/RKTkkgSa",
+    "role": "user",
+    "text": "Из ютуба открой мне юлдуз усманова",
+    "actions": "",
+    "created_at": "2026-04-15 08:09:05",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 393640,
+    "usersid_hash": "$2b$12$NGbEEULHRpANg6cGufGNn.CIY867iz57Rh9KrBMVDSF7N183wWVbu",
+    "role": "user",
+    "text": "Включи радио",
+    "actions": "",
+    "created_at": "2026-02-04 03:44:59",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1218506,
+    "usersid_hash": "$2b$12$O0dPDD81En9dGYzkuOmw1.VDtEeFRzqzE9SCgyiMnI89YyBstCSpe",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-09-25 02:49:27",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1226174,
+    "usersid_hash": "$2b$12$O0dPDD81En9dGYzkuOmw1.VDtEeFRzqzE9SCgyiMnI89YyBstCSpe",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-09-26 17:37:34",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 476231,
+    "usersid_hash": "$2b$12$OfVVmlYKLvgjxDyc4FuU.OxlPcs9cjPcZ.e1JyQxWhL2Co5OWAedi",
+    "role": "user",
+    "text": "youtube oak sxerali jurʼatni qoʻy",
+    "actions": "",
+    "created_at": "2026-03-06 19:39:10",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 975437,
+    "usersid_hash": "$2b$12$P3qU3KkuUTJQ1dlt.RnrLukLVTRNQYJzhFlVM3Jn/45iuGEMb.qP6",
+    "role": "user",
+    "text": "saliha youtube och",
+    "actions": "",
+    "created_at": "2026-07-29 15:56:59",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1201796,
+    "usersid_hash": "$2b$12$PAZiHIusKObVdBnPL4pi9ewJ8Yh8575gR60KtSVXcrmK1FdLWgCm.",
+    "role": "user",
+    "text": "madina orqa ekranni yop youtube ni ochib",
+    "actions": "",
+    "created_at": "2026-09-21 04:06:58",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1344360,
+    "usersid_hash": "$2b$12$QOvlpB63KnbKkeCwM.q.b.684F3.B4H4.GlMhKPymHa2YJTO5ug0e",
+    "role": "user",
+    "text": "youtube dan mani izlab topolmaysan qoʻshigʻini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-25 13:25:44",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1362714,
+    "usersid_hash": "$2b$12$QOvlpB63KnbKkeCwM.q.b.684F3.B4H4.GlMhKPymHa2YJTO5ug0e",
+    "role": "user",
+    "text": "youtube dan alisher fayz qoʻshiqlarini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-30 07:34:47",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1351919,
+    "usersid_hash": "$2b$12$Qtj67n.2ikY6oq97xK16T.MEhZlFOMYaFMV9H/LK4uDn4tWP/em.S",
+    "role": "user",
+    "text": "youtube da mastari nin ryanlov klipini qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-27 12:34:06",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1175680,
+    "usersid_hash": "$2b$12$S6vs4NIhbOdFZ3wBPfzlI.2j.9FKgh98uk63REJFZBniW4h5cXSLi",
+    "role": "user",
+    "text": "Слушай яндекс музыка",
+    "actions": "",
+    "created_at": "2026-09-14 16:00:15",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1330416,
+    "usersid_hash": "$2b$12$Sk2F8rNhzVaMibCjpJSiW.GzNPurutCpC0P0Zp.Dm2TP3NTfxeH.K",
+    "role": "user",
+    "text": "musiqa qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-10-22 07:42:43",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 945043,
+    "usersid_hash": "$2b$12$TPP4/l3sjU3DELN6sWAs0eWcGa2rbSPE21aOwgbuh0/4cbFDOvofi",
+    "role": "user",
+    "text": "alisa man zerikib ketdim youtube dan yulduz usmonovani qoʻshigʻini qoʻydi",
+    "actions": "",
+    "created_at": "2026-07-22 12:38:30",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1122422,
+    "usersid_hash": "$2b$12$UAbnAgglUyGZ4yIglKTXjuTgZxXqU9YXmuh0119oD5ukn39IL6gFS",
+    "role": "user",
+    "text": "Алиса слушай включи youtube",
+    "actions": "",
+    "created_at": "2026-09-01 14:06:02",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1385301,
+    "usersid_hash": "$2b$12$UzGjMhg3XcTqsGkeSNNzOuuBGeY4xIkMJfHuTsltqknACWslALK4q",
+    "role": "user",
+    "text": "Поставь youtube песня хавал навои",
+    "actions": "",
+    "created_at": "2026-11-04 12:33:53",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1385281,
+    "usersid_hash": "$2b$12$X1SSVpjBfkVLQOGSrDTcfedkfCUK2DxvZaJeKpWxnsqbmvnwEx2tq",
+    "role": "user",
+    "text": "yutubni koʻy oʻgʻli may toʻrida youtubeni och",
+    "actions": "",
+    "created_at": "2026-11-04 12:31:13",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1108392,
+    "usersid_hash": "$2b$12$YrBQYbcQt6FXj9F6daTkH.yJQBIynzugTKaSSH/9EVtrF5CDsg2Rm",
+    "role": "user",
+    "text": "Поставь мультик на youtube",
+    "actions": "",
+    "created_at": "2026-08-29 07:51:32",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1370126,
+    "usersid_hash": "$2b$12$Zyt9WYlk1RCdcfen4qF15.knSh6NORUoziVV1DxeNmBUKU2CFRo16",
+    "role": "user",
+    "text": "Поставь музыку матранк",
+    "actions": "",
+    "created_at": "2026-11-01 04:02:31",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1232284,
+    "usersid_hash": "$2b$12$bXiSLCcIGbLkBx/U48C3DetQ0rn.I14xKUZW0C9oEDO8Y.6.mPjua",
+    "role": "user",
+    "text": "Поставь музыку",
+    "actions": "",
+    "created_at": "2026-09-28 10:40:27",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1290777,
+    "usersid_hash": "$2b$12$bXiSLCcIGbLkBx/U48C3DetQ0rn.I14xKUZW0C9oEDO8Y.6.mPjua",
+    "role": "user",
+    "text": "Открой ютуб.",
+    "actions": "",
+    "created_at": "2026-10-12 11:12:14",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1360944,
+    "usersid_hash": "$2b$12$c0fbjA6Vv08cOsQ6wFzNHebbMWrbxkJytsIMJtB5/3WO2bbaLkuWK",
+    "role": "user",
+    "text": "alisa youtube ni poisk klaviaturasini ochib ber",
+    "actions": "",
+    "created_at": "2026-10-29 15:48:08",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 746944,
+    "usersid_hash": "$2b$12$eE6ov1c4xVRa0Maelgi0lOHG75yCWe5bxYvQGXBYOuI3fYLvuBhqa",
+    "role": "user",
+    "text": "Иви открой youtube",
+    "actions": "",
+    "created_at": "2026-05-29 12:24:31",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1109629,
+    "usersid_hash": "$2b$12$eMRv6h2Q4ocEXwf9i5Poz.emjjgu30Mhq2yoaeMaJSY32ciXxeQ56",
+    "role": "user",
+    "text": "Света включи музыку",
+    "actions": "",
+    "created_at": "2026-08-29 12:33:48",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1040433,
+    "usersid_hash": "$2b$12$f3XO.P5NIUEddqIlVjgjQeU2Ap93lLceZyuEL27TMb7o7YmZOp1kW",
+    "role": "user",
+    "text": "Поставь песню гармин гурин",
+    "actions": "",
+    "created_at": "2026-08-13 14:57:47",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1241444,
+    "usersid_hash": "$2b$12$fF1LWM8TmGeUgxPjLgddAO4t87E6xrt.0iiQL7sjAr1j7zuSG.DfS",
+    "role": "user",
+    "text": "Включи youtube",
+    "actions": "",
+    "created_at": "2026-09-30 13:13:17",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 746086,
+    "usersid_hash": "$2b$12$fI47.E.sIhNSNhDwDaaOeuHySB/8vz9dnJtT9erHFr.HSOwXpiS3u",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-05-29 07:25:15",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1069232,
+    "usersid_hash": "$2b$12$fiw0iGownmvdpUb02TPXn.WqAZCPjJq/CLDXFluw4p6k9PuAK6bD2",
+    "role": "user",
+    "text": "Открой youtube поставь последние песни",
+    "actions": "",
+    "created_at": "2026-08-20 04:19:09",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1069236,
+    "usersid_hash": "$2b$12$fiw0iGownmvdpUb02TPXn.WqAZCPjJq/CLDXFluw4p6k9PuAK6bD2",
+    "role": "user",
+    "text": "Поставь в youtube песня юлиуса усманова",
+    "actions": "",
+    "created_at": "2026-08-20 04:20:02",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1149001,
+    "usersid_hash": "$2b$12$fiw0iGownmvdpUb02TPXn.WqAZCPjJq/CLDXFluw4p6k9PuAK6bD2",
+    "role": "user",
+    "text": "Поставь в youtube самую популярную музыку",
+    "actions": "",
+    "created_at": "2026-09-08 07:54:59",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1183464,
+    "usersid_hash": "$2b$12$fiw0iGownmvdpUb02TPXn.WqAZCPjJq/CLDXFluw4p6k9PuAK6bD2",
+    "role": "user",
+    "text": "Поставь youtube самые последние хиты",
+    "actions": "",
+    "created_at": "2026-09-16 16:37:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1385611,
+    "usersid_hash": "$2b$12$fyd1eeAYpInIwghSbcoJsujMW9bnmMBloBWOy8fDC7lAfiqNmr4vu",
+    "role": "user",
+    "text": "Поставь на youtube песню музыку баха",
+    "actions": "",
+    "created_at": "2026-11-04 13:14:48",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1117732,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orka ekranda yulduz usmonovani qoʻshiqlarini youtube dan qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-08-31 10:59:50",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1117786,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "youtube dan yangi hit qoʻshiqlarni qoʻy",
+    "actions": "",
+    "created_at": "2026-08-31 11:14:35",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1119641,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekranda youtube ni och",
+    "actions": "",
+    "created_at": "2026-08-31 20:32:55",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1119643,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekranda youtube dan multik och",
+    "actions": "",
+    "created_at": "2026-08-31 20:33:28",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1119649,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "alisa youtube ni och",
+    "actions": "",
+    "created_at": "2026-08-31 20:38:39",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1120721,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekrandan youtube dan multfilm qoʻy",
+    "actions": "",
+    "created_at": "2026-09-01 08:33:37",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1120725,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekrandan youtube dan tobe cherry qoʻy",
+    "actions": "",
+    "created_at": "2026-09-01 08:34:02",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1123630,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekranda youtube dan tomi jerry qoʻyaver",
+    "actions": "",
+    "created_at": "2026-09-01 19:18:39",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1125923,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekrandan youtube dan simli tractor qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-09-02 12:22:57",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1174266,
+    "usersid_hash": "$2b$12$kNpd.1XbgZ9V.TGSvcE9zejdI/vpXBEonyw096f89ieAiIVhG5H1G",
+    "role": "user",
+    "text": "orqa ekranda youtube ni och",
+    "actions": "",
+    "created_at": "2026-09-14 11:35:43",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1077069,
+    "usersid_hash": "$2b$12$kbATf4p1QeTXUhrRlgWhNesOpOUjtv18YXWztIUOQ/cXC52YXwdAW",
+    "role": "user",
+    "text": "youtube dan manga maxmud namozimni kishlogim degan kushigini kochadi",
+    "actions": "",
+    "created_at": "2026-08-21 19:25:07",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1224127,
+    "usersid_hash": "$2b$12$kbATf4p1QeTXUhrRlgWhNesOpOUjtv18YXWztIUOQ/cXC52YXwdAW",
+    "role": "user",
+    "text": "youtube dan farhod akam uchun mayxoʻr degan qoʻshiq bor oʻshani qoʻyib ber",
+    "actions": "",
+    "created_at": "2026-09-26 10:04:18",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1315317,
+    "usersid_hash": "$2b$12$kh2lNSJ1i65emTAmIoww7uj/cRP3ccYPhJwUMj9.1Zzlk/Laf.qb2",
+    "role": "user",
+    "text": "Включи яндекс музыку и все",
+    "actions": "",
+    "created_at": "2026-10-18 11:21:30",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1384519,
+    "usersid_hash": "$2b$12$mFVrwOP51jw3d9RWvBWEfeaHXZoDV2mwj.F3Gx1.9RO6ty/HehFX6",
+    "role": "user",
+    "text": "Поставь на youtube абдуллах домле",
+    "actions": "",
+    "created_at": "2026-11-04 09:30:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1385089,
+    "usersid_hash": "$2b$12$mFVrwOP51jw3d9RWvBWEfeaHXZoDV2mwj.F3Gx1.9RO6ty/HehFX6",
+    "role": "user",
+    "text": "Поставь на youtube суру ясин",
+    "actions": "",
+    "created_at": "2026-11-04 11:55:00",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1336525,
+    "usersid_hash": "$2b$12$mWzRBbRdvMNF3mT5mEGMIeooc9UzFXTyo8YKQaOrX3Cb.uA4Ny1uy",
+    "role": "user",
+    "text": "Открой в youtube песня масари",
+    "actions": "",
+    "created_at": "2026-10-23 14:59:45",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1339504,
+    "usersid_hash": "$2b$12$mWzRBbRdvMNF3mT5mEGMIeooc9UzFXTyo8YKQaOrX3Cb.uA4Ny1uy",
+    "role": "user",
+    "text": "Открой яндекс музыка",
+    "actions": "",
+    "created_at": "2026-10-24 11:16:14",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1274136,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь на youtube песни с нутом",
+    "actions": "",
+    "created_at": "2026-10-08 13:01:54",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1274152,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь песни на youtube снуп донг",
+    "actions": "",
+    "created_at": "2026-10-08 13:04:21",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1274903,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Света поставь youtube",
+    "actions": "",
+    "created_at": "2026-10-08 15:57:17",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1274913,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Света поставь youtube",
+    "actions": "",
+    "created_at": "2026-10-08 15:58:06",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1274925,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь youtube",
+    "actions": "",
+    "created_at": "2026-10-08 16:00:11",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1276107,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-10-09 04:32:39",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1277759,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь youtube",
+    "actions": "",
+    "created_at": "2026-10-09 11:29:58",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1280706,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь песни",
+    "actions": "",
+    "created_at": "2026-10-10 04:51:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1280708,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Поставь песни снук дон на youtube",
+    "actions": "",
+    "created_at": "2026-10-10 04:51:59",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1290262,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Закрой шторку ютуб поставь.",
+    "actions": "",
+    "created_at": "2026-10-12 09:37:22",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1291029,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Ютуб поставь.",
+    "actions": "",
+    "created_at": "2026-10-12 12:13:24",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1292235,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Света поставь ютуб песни сизикэдж.",
+    "actions": "",
+    "created_at": "2026-10-12 16:45:26",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1292381,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Открой ютуб.",
+    "actions": "",
+    "created_at": "2026-10-12 17:34:19",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1294183,
+    "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+    "role": "user",
+    "text": "Открой youtube шторку задний богач",
+    "actions": "",
+    "created_at": "2026-10-13 08:48:57",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 941313,
+    "usersid_hash": "$2b$12$o18z9.9ZD3q2RhhK7cGCPuK8NIhCk9ulXNY4ppMmSJYALeC5kMRZy",
+    "role": "user",
+    "text": "Включи музыку",
+    "actions": "",
+    "created_at": "2026-07-21 13:36:04",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 950991,
+    "usersid_hash": "$2b$12$o18z9.9ZD3q2RhhK7cGCPuK8NIhCk9ulXNY4ppMmSJYALeC5kMRZy",
+    "role": "user",
+    "text": "Включи музыку",
+    "actions": "",
+    "created_at": "2026-07-23 19:14:01",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1365901,
+    "usersid_hash": "$2b$12$o63NRUmyoUcplag/SUQAROOv3vZc8RP5.WRP7Yz/h0eM9GzZ/Of7K",
+    "role": "user",
+    "text": "Включи подогрев сидения водителя закрой шторку youtube включи",
+    "actions": "",
+    "created_at": "2026-10-30 18:43:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1369764,
+    "usersid_hash": "$2b$12$o63NRUmyoUcplag/SUQAROOv3vZc8RP5.WRP7Yz/h0eM9GzZ/Of7K",
+    "role": "user",
+    "text": "Включи фары поставь яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-31 19:08:29",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1370112,
+    "usersid_hash": "$2b$12$o63NRUmyoUcplag/SUQAROOv3vZc8RP5.WRP7Yz/h0eM9GzZ/Of7K",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-01 03:52:02",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1370442,
+    "usersid_hash": "$2b$12$o63NRUmyoUcplag/SUQAROOv3vZc8RP5.WRP7Yz/h0eM9GzZ/Of7K",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-01 05:57:55",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1175273,
+    "usersid_hash": "$2b$12$pP6gpl6ANqLUqm3DUFo7ouQXvq8oeb/6qddn6C9Kt0kIUCjYlIu/O",
+    "role": "user",
+    "text": "Открой в youtube ролик бустера",
+    "actions": "",
+    "created_at": "2026-09-14 14:47:50",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1175917,
+    "usersid_hash": "$2b$12$pP6gpl6ANqLUqm3DUFo7ouQXvq8oeb/6qddn6C9Kt0kIUCjYlIu/O",
+    "role": "user",
+    "text": "Включи на youtube видео димы масленникова",
+    "actions": "",
+    "created_at": "2026-09-14 16:43:27",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1177898,
+    "usersid_hash": "$2b$12$pP6gpl6ANqLUqm3DUFo7ouQXvq8oeb/6qddn6C9Kt0kIUCjYlIu/O",
+    "role": "user",
+    "text": "Включи трейлер человека паука на youtube",
+    "actions": "",
+    "created_at": "2026-09-15 09:49:49",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 928724,
+    "usersid_hash": "$2b$12$qL5TSxMNanvkV3yO2E3U0ehsoDPb/6Pw21KicMd0QE9kDbccMWtMq",
+    "role": "user",
+    "text": "madina manzeri fikret ten youtube dan 1 isim alarak oʻshigʻini qoʻyaver",
+    "actions": "",
+    "created_at": "2026-07-18 11:14:38",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 929478,
+    "usersid_hash": "$2b$12$qL5TSxMNanvkV3yO2E3U0ehsoDPb/6Pw21KicMd0QE9kDbccMWtMq",
+    "role": "user",
+    "text": "madina youtube ni och",
+    "actions": "",
+    "created_at": "2026-07-18 14:01:04",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1282934,
+    "usersid_hash": "$2b$12$qNZFaMBi2MBra5gnfHASouSr7aYjYcI2R70fq9/GYIpetm6TL4UgW",
+    "role": "user",
+    "text": "Поставь музыку",
+    "actions": "",
+    "created_at": "2026-10-10 12:56:20",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1146467,
+    "usersid_hash": "$2b$12$sRuyCEs4UaCg057TPFQYkuvLoVvit4zxsUx20kslWcrVz5DNM3wc2",
+    "role": "user",
+    "text": "Поставь мне узбекскую музыку в youtube",
+    "actions": "",
+    "created_at": "2026-09-07 13:04:14",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1372757,
+    "usersid_hash": "$2b$12$sTWdNMB9b2EZWhhQagroF.XfptLi2wqnDQc8YKetXSqxiI9rqRiKW",
+    "role": "user",
+    "text": "youtube dan rovley moshinasini ochib yer",
+    "actions": "",
+    "created_at": "2026-11-01 13:43:49",
+    "deleted_at": null,
+    "user_language": "uz-UZ"
+  },
+  {
+    "id": 1021809,
+    "usersid_hash": "$2b$12$sqLCzqy.2bNoJChOXI1HAu9mP7Fye1dnbv6uy7Gj..RE6NDtGN1US",
+    "role": "user",
+    "text": "Света включи youtube",
+    "actions": "",
+    "created_at": "2026-08-09 10:51:43",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 892816,
+    "usersid_hash": "$2b$12$t231k0QNe7L.xfAf0wZa6uKum9Eq.Hazhpky5IoNkO5m4OzuDrVWC",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-07-09 15:50:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1019663,
+    "usersid_hash": "$2b$12$wvEq8x.raOPkgPY5al5PbuoAZWABayT5kyUr3L4G4peAqSOndHTAa",
+    "role": "user",
+    "text": "Включи песню руки вверх.",
+    "actions": "",
+    "created_at": "2026-08-08 16:18:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1066935,
+    "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+    "role": "user",
+    "text": "Открой youtube",
+    "actions": "",
+    "created_at": "2026-08-19 12:20:28",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1066937,
+    "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+    "role": "user",
+    "text": "Поставь музыку арам асадян",
+    "actions": "",
+    "created_at": "2026-08-19 12:20:42",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1066939,
+    "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+    "role": "user",
+    "text": "Открой youtube поставь музыку",
+    "actions": "",
+    "created_at": "2026-08-19 12:20:57",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1348515,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-26 14:16:38",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1349843,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Алиса включи яндекс музыку и петьку включи",
+    "actions": "",
+    "created_at": "2026-10-27 03:32:36",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1349851,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Зизе включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-27 03:34:39",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1352543,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Алиса включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-27 14:34:23",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1353695,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Алиса включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-28 03:35:38",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1356559,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-28 14:36:33",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1357849,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Алиса включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-29 03:45:14",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1360408,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Алиса включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-29 14:02:09",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1361782,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Лиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-30 03:40:32",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1364968,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Лиза включи аннекс музыку",
+    "actions": "",
+    "created_at": "2026-10-30 14:24:37",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1367676,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Азиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-10-31 10:20:25",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1371422,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-01 09:20:28",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1371428,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-01 09:21:26",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1374470,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Лиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-02 03:44:17",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1377245,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Азиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-02 14:45:10",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1378512,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-03 03:38:53",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1382899,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Лиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-04 03:40:40",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1383693,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-04 06:45:59",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1384009,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "Включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-04 07:48:41",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  },
+  {
+    "id": 1386075,
+    "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+    "role": "user",
+    "text": "А лиза включи яндекс музыку",
+    "actions": "",
+    "created_at": "2026-11-04 14:50:41",
+    "deleted_at": null,
+    "user_language": "ru-RU"
+  }
+]

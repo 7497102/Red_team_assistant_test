@@ -1,0 +1,692 @@
+[
+  {
+    "id": 1379885,
+    "records": [
+      {
+        "id": 1379884,
+        "usersid_hash": "$2b$12$7tyxNz3EGVhNQ5YEHqyL2eCZzCMjiWVC1TlRP9TuI5yz/klz3NKi.",
+        "role": "user",
+        "text": "alican esenkol uni koy",
+        "actions": "",
+        "created_at": "2026-11-03 09:27:40",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1379885,
+        "usersid_hash": "$2b$12$7tyxNz3EGVhNQ5YEHqyL2eCZzCMjiWVC1TlRP9TuI5yz/klz3NKi.",
+        "role": "user",
+        "text": "alican esenkol uni koy",
+        "actions": "",
+        "created_at": "2026-11-03 09:27:40",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1356835,
+    "records": [
+      {
+        "id": 1356832,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "user",
+        "text": "ertaga toshkentda ob havo kanaka",
+        "actions": "",
+        "created_at": "2026-10-28 15:32:37",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1356833,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "assistant",
+        "text": "|Ahmad, ovozimni o'zgartirishim mumkin. Qaysi birini xohlaysiz: \"standart\" yoki \"sport\" ovozimi? Ertaga Toshkentda tongda yomg'ir yog'ishi kutilmoqda, kunduzi havo 11 dan 19 darajagacha iliq bo'ladi.",
+        "actions": "|",
+        "created_at": "2026-10-28 15:32:42",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1356835,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "user",
+        "text": "ertaga toshkentda ob havo kanaka",
+        "actions": "",
+        "created_at": "2026-10-28 15:33:10",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1383369,
+    "records": [
+      {
+        "id": 1383365,
+        "usersid_hash": "$2b$12$KvmS4OQo2RWxN.5A4aWUwePvGbSzaTiXGWCyjfoBeyrRLnJYbDg7.",
+        "role": "user",
+        "text": "I.",
+        "actions": "",
+        "created_at": "2026-11-04 05:50:37",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1383366,
+        "usersid_hash": "$2b$12$KvmS4OQo2RWxN.5A4aWUwePvGbSzaTiXGWCyjfoBeyrRLnJYbDg7.",
+        "role": "assistant",
+        "text": "|YouTube ochiq, hozirda qaysi videoni qidirishni xohlaysiz?",
+        "actions": "|",
+        "created_at": "2026-11-04 05:50:38",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1383369,
+        "usersid_hash": "$2b$12$KvmS4OQo2RWxN.5A4aWUwePvGbSzaTiXGWCyjfoBeyrRLnJYbDg7.",
+        "role": "user",
+        "text": "I.",
+        "actions": "",
+        "created_at": "2026-11-04 05:51:02",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1197816,
+    "records": [
+      {
+        "id": 1197810,
+        "usersid_hash": "$2b$12$PAZiHIusKObVdBnPL4pi9ewJ8Yh8575gR60KtSVXcrmK1FdLWgCm.",
+        "role": "user",
+        "text": "madina konditsionerni oʻchir",
+        "actions": "",
+        "created_at": "2026-09-20 05:15:44",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1197811,
+        "usersid_hash": "$2b$12$PAZiHIusKObVdBnPL4pi9ewJ8Yh8575gR60KtSVXcrmK1FdLWgCm.",
+        "role": "assistant",
+        "text": "|Konditsionerni o'chirdim, azizim!",
+        "actions": "|",
+        "created_at": "2026-09-20 05:15:45",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1197816,
+        "usersid_hash": "$2b$12$PAZiHIusKObVdBnPL4pi9ewJ8Yh8575gR60KtSVXcrmK1FdLWgCm.",
+        "role": "user",
+        "text": "madina konditsionerni oʻchir",
+        "actions": "",
+        "created_at": "2026-09-20 05:17:33",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1360818,
+    "records": [
+      {
+        "id": 1360812,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "user",
+        "text": "yandex navigatorni yoʻq",
+        "actions": "",
+        "created_at": "2026-10-29 15:27:40",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1360813,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "assistant",
+        "text": "|Kechirasiz, janob, Yandex Navigatorda bunday funksiya yo'q. Uni to'g'ridan-to'g'ri o'chira olmayman. Yana qanday yordam bera olaman?",
+        "actions": "|",
+        "created_at": "2026-10-29 15:27:43",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1360818,
+        "usersid_hash": "$2b$12$dbaHm8zTTqUSdJiS/XD1.uPoSJSoZeXq45NT1qnz0FiEimEotRplS",
+        "role": "user",
+        "text": "yandex navigatorni yoʻq",
+        "actions": "",
+        "created_at": "2026-10-29 15:27:59",
+        "deleted_at": null,
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1073844,
+    "records": [
+      {
+        "id": 1073842,
+        "usersid_hash": "$2b$10$dGqEfBAZQGTixKELDJztAuKm4otj2qFAiVp.B4xOYvCOB8hFi.1EO",
+        "role": "user",
+        "text": "Поднять все окна",
+        "actions": "",
+        "created_at": "2026-08-21 07:26:01",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1073843,
+        "usersid_hash": "$2b$10$dGqEfBAZQGTixKELDJztAuKm4otj2qFAiVp.B4xOYvCOB8hFi.1EO",
+        "role": "assistant",
+        "text": "|Открываю все окна полностью",
+        "actions": "O5|",
+        "created_at": "2026-08-21 07:26:02",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1073844,
+        "usersid_hash": "$2b$10$dGqEfBAZQGTixKELDJztAuKm4otj2qFAiVp.B4xOYvCOB8hFi.1EO",
+        "role": "user",
+        "text": "Поднять все окна",
+        "actions": "",
+        "created_at": "2026-08-21 07:26:24",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1383117,
+    "records": [
+      {
+        "id": 1383109,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "user",
+        "text": "Включи youtube арабская музыка",
+        "actions": "",
+        "created_at": "2026-11-04 04:55:09",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1383110,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "assistant",
+        "text": "|Открываю YouTube и ищу арабскую музыку",
+        "actions": "J1: арабская музыка|",
+        "created_at": "2026-11-04 04:55:10",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1383117,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "user",
+        "text": "Включи youtube арабская музыка",
+        "actions": "",
+        "created_at": "2026-11-04 04:56:20",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1038104,
+    "records": [
+      {
+        "id": 1038099,
+        "usersid_hash": "$2b$12$zK0dqdfMYfyg/o4wQiraCO88rpDkXRH7PWd8wchoNt4MWaGIErj6u",
+        "role": "user",
+        "text": "Как включить холодильник",
+        "actions": "",
+        "created_at": "2026-08-13 06:29:46",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1038100,
+        "usersid_hash": "$2b$12$zK0dqdfMYfyg/o4wQiraCO88rpDkXRH7PWd8wchoNt4MWaGIErj6u",
+        "role": "assistant",
+        "text": "|Чтобы включить холодильник, нажмите кнопку питания на панели управления в салоне или используйте приложение автомобиля.",
+        "actions": "|",
+        "created_at": "2026-08-13 06:29:47",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1038104,
+        "usersid_hash": "$2b$12$zK0dqdfMYfyg/o4wQiraCO88rpDkXRH7PWd8wchoNt4MWaGIErj6u",
+        "role": "user",
+        "text": "Как включить холодильник",
+        "actions": "",
+        "created_at": "2026-08-13 06:30:34",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1303573,
+    "records": [
+      {
+        "id": 1303569,
+        "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+        "role": "user",
+        "text": "Поставь песню",
+        "actions": "",
+        "created_at": "2026-10-15 13:25:23",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1303570,
+        "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+        "role": "assistant",
+        "text": "|Открываю Яндекс Музыку",
+        "actions": "J3|",
+        "created_at": "2026-10-15 13:25:24",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1303573,
+        "usersid_hash": "$2b$10$g/2nAtcO8HJYnrlURWkdNuVgg7iYvpA1THnjyiSQZx3pHX5wTcS9K",
+        "role": "user",
+        "text": "Поставь песню",
+        "actions": "",
+        "created_at": "2026-10-15 13:25:51",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1307855,
+    "records": [
+      {
+        "id": 1307849,
+        "usersid_hash": "$2a$12$bscCYlm.EgC.KOu0QboCxuCrot3N.7JGapYvL/BA99pkEmC2xLYNm",
+        "role": "user",
+        "text": "Какая сегодня погода в ташкенте",
+        "actions": "",
+        "created_at": "2026-10-16 13:49:48",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1307850,
+        "usersid_hash": "$2a$12$bscCYlm.EgC.KOu0QboCxuCrot3N.7JGapYvL/BA99pkEmC2xLYNm",
+        "role": "assistant",
+        "text": "|Сейчас в Ташкенте 23 °C, ясно, ветерок 12 км/ч, без осадков. Одевайтесь по-летнему, удобно будет.",
+        "actions": "|",
+        "created_at": "2026-10-16 13:49:48",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1307855,
+        "usersid_hash": "$2a$12$bscCYlm.EgC.KOu0QboCxuCrot3N.7JGapYvL/BA99pkEmC2xLYNm",
+        "role": "user",
+        "text": "Какая сегодня погода в ташкенте",
+        "actions": "",
+        "created_at": "2026-10-16 13:50:09",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1292379,
+    "records": [
+      {
+        "id": 1292375,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "user",
+        "text": "Открой блютус.",
+        "actions": "",
+        "created_at": "2026-10-12 17:33:03",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1292376,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "assistant",
+        "text": "|Открываю Bluetooth",
+        "actions": "|",
+        "created_at": "2026-10-12 17:33:06",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1292379,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "user",
+        "text": "Открой блютус.",
+        "actions": "",
+        "created_at": "2026-10-12 17:34:09",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1383135,
+    "records": [
+      {
+        "id": 1383117,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "user",
+        "text": "Включи youtube арабская музыка",
+        "actions": "",
+        "created_at": "2026-11-04 04:56:20",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1383118,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "assistant",
+        "text": "|Открываю YouTube и ищу арабскую музыку",
+        "actions": "J1: арабская музыка|",
+        "created_at": "2026-11-04 04:56:20",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1383135,
+        "usersid_hash": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+        "role": "user",
+        "text": "Включи youtube арабская музыка",
+        "actions": "",
+        "created_at": "2026-11-04 04:58:01",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1288431,
+    "records": [
+      {
+        "id": 1288429,
+        "usersid_hash": "$2b$12$hwSGgMk3DirFi43LRGNHt.exGGF72zP8nYGkJ4ThEYRQbsbRGWlji",
+        "role": "user",
+        "text": "Как ты думаешь мне стоит выйти замуж за сабину?",
+        "actions": "",
+        "created_at": "2026-10-11 17:42:55",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1288430,
+        "usersid_hash": "$2b$12$hwSGgMk3DirFi43LRGNHt.exGGF72zP8nYGkJ4ThEYRQbsbRGWlji",
+        "role": "assistant",
+        "text": "|Это важное решение, подумай о совместных ценностях, чувствах и будущих планах. Лучше обсудить с близкими и прислушаться к своим ощущениям.",
+        "actions": "|",
+        "created_at": "2026-10-11 17:42:58",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1288431,
+        "usersid_hash": "$2b$12$hwSGgMk3DirFi43LRGNHt.exGGF72zP8nYGkJ4ThEYRQbsbRGWlji",
+        "role": "user",
+        "text": "Как ты думаешь мне стоит выйти замуж за сабину?",
+        "actions": "",
+        "created_at": "2026-10-11 17:43:12",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1359912,
+    "records": [
+      {
+        "id": 1359910,
+        "usersid_hash": "$2a$12$3/d4njhUC/j58BmzCwHgU.w6l38L0Z2jsf3x3RL5uyzCsqispY8hK",
+        "role": "user",
+        "text": "Куралай",
+        "actions": "",
+        "created_at": "2026-10-29 12:31:10",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1359911,
+        "usersid_hash": "$2a$12$3/d4njhUC/j58BmzCwHgU.w6l38L0Z2jsf3x3RL5uyzCsqispY8hK",
+        "role": "assistant",
+        "text": "|Это замечательная мысль! Мне кажется, очень важно верить в себя и быть открытым всему хорошему, что может случиться.",
+        "actions": "|",
+        "created_at": "2026-10-29 12:31:12",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1359912,
+        "usersid_hash": "$2a$12$3/d4njhUC/j58BmzCwHgU.w6l38L0Z2jsf3x3RL5uyzCsqispY8hK",
+        "role": "user",
+        "text": "Куралай",
+        "actions": "",
+        "created_at": "2026-10-29 12:31:21",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1287943,
+    "records": [
+      {
+        "id": 1287935,
+        "usersid_hash": "$2b$12$IhqEbza40b4jyKn2NLrePuDmSUrzgk6ebjVTz0Rb/OTVlkLBcepUi",
+        "role": "user",
+        "text": "Сири открой переднее правое окно.",
+        "actions": "",
+        "created_at": "2026-10-11 15:10:49",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1287938,
+        "usersid_hash": "$2b$12$IhqEbza40b4jyKn2NLrePuDmSUrzgk6ebjVTz0Rb/OTVlkLBcepUi",
+        "role": "assistant",
+        "text": "|Открываю переднее правое окошко для тебя, мой хороший! Пусть свежий воздух наполнит салон!",
+        "actions": "E7|",
+        "created_at": "2026-10-11 15:10:50",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1287943,
+        "usersid_hash": "$2b$12$IhqEbza40b4jyKn2NLrePuDmSUrzgk6ebjVTz0Rb/OTVlkLBcepUi",
+        "role": "user",
+        "text": "Сири открой переднее правое окно.",
+        "actions": "",
+        "created_at": "2026-10-11 15:11:24",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 400507,
+    "records": [
+      {
+        "id": 400503,
+        "usersid_hash": "$2b$12$UmdrPrSBXmFsE51iKdN6xuC9GmyiRhJkbbqZRNCAYHdoQM6dDYgFO",
+        "role": "user",
+        "text": "Какая погода в минске",
+        "actions": "",
+        "created_at": "2026-02-06 14:17:21",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 400506,
+        "usersid_hash": "$2b$12$UmdrPrSBXmFsE51iKdN6xuC9GmyiRhJkbbqZRNCAYHdoQM6dDYgFO",
+        "role": "assistant",
+        "text": "|Мой хороший, я снова должна тебе сказать, что у меня нет информации о погоде в Минске. Могу рассказать о погоде в городах Узбекистана.",
+        "actions": "|",
+        "created_at": "2026-02-06 14:17:23",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 400507,
+        "usersid_hash": "$2b$12$UmdrPrSBXmFsE51iKdN6xuC9GmyiRhJkbbqZRNCAYHdoQM6dDYgFO",
+        "role": "user",
+        "text": "Какая погода в минске",
+        "actions": "",
+        "created_at": "2026-02-06 14:17:55",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1274913,
+    "records": [
+      {
+        "id": 1274903,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "user",
+        "text": "Света поставь youtube",
+        "actions": "",
+        "created_at": "2026-10-08 15:57:17",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1274904,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "assistant",
+        "text": "|Открываю YouTube",
+        "actions": "J4|",
+        "created_at": "2026-10-08 15:57:17",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1274913,
+        "usersid_hash": "$2b$12$nf1d7u4MFN2aIfOHMdNGBewTl.F0a3MNUbNsBZ1ZSZJGPqJqYxXYy",
+        "role": "user",
+        "text": "Света поставь youtube",
+        "actions": "",
+        "created_at": "2026-10-08 15:58:06",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1248246,
+    "records": [
+      {
+        "id": 1248244,
+        "usersid_hash": "$2b$12$44oBlkCy1QWNmbOHwde7rOa.msyTfo7w63SWuCJ/FJHM023faxOni",
+        "role": "user",
+        "text": "Закрой окна",
+        "actions": "",
+        "created_at": "2026-10-02 09:39:42",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1248245,
+        "usersid_hash": "$2b$12$44oBlkCy1QWNmbOHwde7rOa.msyTfo7w63SWuCJ/FJHM023faxOni",
+        "role": "assistant",
+        "text": "|Закрываю все окна",
+        "actions": "O8|",
+        "created_at": "2026-10-02 09:39:42",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1248246,
+        "usersid_hash": "$2b$12$44oBlkCy1QWNmbOHwde7rOa.msyTfo7w63SWuCJ/FJHM023faxOni",
+        "role": "user",
+        "text": "Закрой окна",
+        "actions": "",
+        "created_at": "2026-10-02 09:39:48",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1066963,
+    "records": [
+      {
+        "id": 1066959,
+        "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+        "role": "user",
+        "text": "Расскажи анекдот",
+        "actions": "",
+        "created_at": "2026-08-19 12:26:13",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1066960,
+        "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+        "role": "assistant",
+        "text": "|— Почему у компьютера всегда хороший настрой? — Потому что у него есть «пауза» и «перезагрузка»!~{'internet': 0}}",
+        "actions": "|",
+        "created_at": "2026-08-19 12:26:14",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1066963,
+        "usersid_hash": "$2b$12$yLZadQutLlE6VawqGVLPz.4qCGi3nGp1FuHMOoI4yf9Cj7.yD91GC",
+        "role": "user",
+        "text": "Расскажи анекдот",
+        "actions": "",
+        "created_at": "2026-08-19 12:27:14",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1367126,
+    "records": [
+      {
+        "id": 1367122,
+        "usersid_hash": "$2a$12$i48grHFGqYrgwsXOQnBN6.MYBXhZwlhchf4g3BHFxs8Z3TkqF1zA6",
+        "role": "user",
+        "text": "Погода в ташкенте",
+        "actions": "",
+        "created_at": "2026-10-31 07:49:46",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1367123,
+        "usersid_hash": "$2a$12$i48grHFGqYrgwsXOQnBN6.MYBXhZwlhchf4g3BHFxs8Z3TkqF1zA6",
+        "role": "assistant",
+        "text": "|В Ташкенте сейчас облачно, температура воздуха около 20°C, ветер 7.7 км/ч, без осадков. Погода очень приятная для прогулок!",
+        "actions": "|",
+        "created_at": "2026-10-31 07:49:48",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1367126,
+        "usersid_hash": "$2a$12$i48grHFGqYrgwsXOQnBN6.MYBXhZwlhchf4g3BHFxs8Z3TkqF1zA6",
+        "role": "user",
+        "text": "Погода в ташкенте",
+        "actions": "",
+        "created_at": "2026-10-31 07:50:11",
+        "deleted_at": null,
+        "user_language": "ru-RU"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+<article class="panel"><p class="meta"><a href="{% url 'histories:record' item.id %}">#{{ item.id }}</a> · {{ item.created_at }} · {{ item.role }} · {{ item.user_language|default:'Язык не указан' }}</p><pre class="quote">{{ item.text|default:'[Пустая строка]' }}</pre><p class="meta">actions: <code>{{ item.actions|default:'[Пустая строка]' }}</code></p></article>

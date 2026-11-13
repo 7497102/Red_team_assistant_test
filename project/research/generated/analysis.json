@@ -1,0 +1,192 @@
+{
+  "rule_version": "1.0",
+  "sample_seed": "20261105",
+  "source_hashes": [
+    "aed3aa1fdbf5ad39cbebcafb32e02f7a8e5a7b41c9310e4c1e93564c587fae00"
+  ],
+  "scope": {
+    "deleted_at": "all historical records",
+    "excluded_key": null,
+    "timezone": "unknown"
+  },
+  "profile": {
+    "records": 260232,
+    "roles": {
+      "user": 130934,
+      "assistant": 129298
+    },
+    "keys": 999,
+    "date_min": "2024-09-06 09:51:13",
+    "date_max": "2026-11-04 14:50:41",
+    "months": {
+      "2024-09": 1315,
+      "2024-10": 3669,
+      "2024-11": 6391,
+      "2024-12": 4166,
+      "2025-01": 2638,
+      "2025-02": 2307,
+      "2025-03": 1715,
+      "2025-04": 3079,
+      "2025-05": 2839,
+      "2025-06": 1372,
+      "2025-07": 3010,
+      "2025-08": 2210,
+      "2025-09": 3764,
+      "2025-10": 4007,
+      "2025-11": 4890,
+      "2025-12": 9549,
+      "2026-01": 9152,
+      "2026-02": 13592,
+      "2026-03": 16099,
+      "2026-04": 17795,
+      "2026-05": 20228,
+      "2026-06": 20873,
+      "2026-07": 25639,
+      "2026-08": 26836,
+      "2026-09": 24144,
+      "2026-10": 25816,
+      "2026-11": 3137
+    },
+    "user_languages": {
+      "ru-RU": 39068,
+      "<null>": 168,
+      "uz-UZ": 90937,
+      "ar-SA": 69,
+      "tr-TR": 297,
+      "pl-PL": 350,
+      "en-US": 13,
+      "es-ES": 28,
+      "fa-IR": 4
+    },
+    "missing": {
+      "id": {
+        "null": 0,
+        "blank": 0
+      },
+      "usersid_hash": {
+        "null": 0,
+        "blank": 0
+      },
+      "role": {
+        "null": 0,
+        "blank": 0
+      },
+      "text": {
+        "null": 0,
+        "blank": 2463
+      },
+      "actions": {
+        "null": 0,
+        "blank": 133397
+      },
+      "created_at": {
+        "null": 0,
+        "blank": 0
+      },
+      "deleted_at": {
+        "null": 6875,
+        "blank": 0
+      },
+      "user_language": {
+        "null": 336,
+        "blank": 0
+      }
+    },
+    "top10_user_message_fraction": 0.10931461652435578
+  },
+  "media": {
+    "messages": 5430,
+    "keys": 573,
+    "denominator_user_messages": 130934,
+    "denominator_keys": 999,
+    "message_fraction": 0.04147127560450303,
+    "language_counts": {
+      "ru-RU": 3269,
+      "<null>": 12,
+      "uz-UZ": 2149
+    }
+  },
+  "repeats": {
+    "messages": 1023,
+    "keys": 318,
+    "denominator_user_messages": 130934,
+    "denominator_keys": 999,
+    "message_fraction": 0.007813096674660515,
+    "language_counts": {
+      "ru-RU": 581,
+      "uz-UZ": 440,
+      "<null>": 1,
+      "ar-SA": 1
+    }
+  },
+  "repeat_windows": {
+    "30": {
+      "messages": 604,
+      "keys": 222,
+      "denominator_user_messages": 130934,
+      "denominator_keys": 999,
+      "message_fraction": 0.004613011135381185,
+      "language_counts": {
+        "ru-RU": 327,
+        "uz-UZ": 276,
+        "ar-SA": 1
+      }
+    },
+    "60": {
+      "messages": 898,
+      "keys": 297,
+      "denominator_user_messages": 130934,
+      "denominator_keys": 999,
+      "message_fraction": 0.00685841721783494,
+      "language_counts": {
+        "ru-RU": 503,
+        "uz-UZ": 393,
+        "<null>": 1,
+        "ar-SA": 1
+      }
+    },
+    "120": {
+      "messages": 1023,
+      "keys": 318,
+      "denominator_user_messages": 130934,
+      "denominator_keys": 999,
+      "message_fraction": 0.007813096674660515,
+      "language_counts": {
+        "ru-RU": 581,
+        "uz-UZ": 440,
+        "<null>": 1,
+        "ar-SA": 1
+      }
+    }
+  },
+  "repeat_without_intervening_assistant": 153,
+  "exclude_most_active": {
+    "key": "$2b$12$MTicR5OjyXZmG/TL7XUkLuuQSTqwWd0vfyou7.Ftiq2SlbHRLFiSK",
+    "user_messages": 2422,
+    "media": {
+      "messages": 5417,
+      "keys": 572,
+      "denominator_user_messages": 128512,
+      "denominator_keys": 998,
+      "message_fraction": 0.04215170567729084,
+      "language_counts": {
+        "ru-RU": 3266,
+        "<null>": 12,
+        "uz-UZ": 2139
+      }
+    },
+    "repeats": {
+      "messages": 1015,
+      "keys": 317,
+      "denominator_user_messages": 128512,
+      "denominator_keys": 998,
+      "message_fraction": 0.007898095119521912,
+      "language_counts": {
+        "ru-RU": 576,
+        "uz-UZ": 437,
+        "<null>": 1,
+        "ar-SA": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "package": "assistant-test-20pct-users",
+  "created_date": "2026-11-05",
+  "scope": "Candidate assignment materials, not an implemented web service",
+  "sampling": {
+    "unit": "distinct usersid_hash",
+    "method": "uniform pseudorandom sample without replacement over sorted distinct keys",
+    "seed": 20261105,
+    "source_key_count": 4995,
+    "selected_key_count": 999,
+    "selected_key_fraction": 0.2,
+    "source_record_count": 1376323,
+    "selected_record_count": 260232,
+    "selected_record_fraction": 0.1890777092295922,
+    "all_records_of_selected_keys_included": true
+  },
+  "data_sha256": "aed3aa1fdbf5ad39cbebcafb32e02f7a8e5a7b41c9310e4c1e93564c587fae00",
+  "verification": {
+    "selected_users_exact": 999,
+    "sample_parsed_completely": true,
+    "all_selected_user_histories_complete_against_source": true,
+    "no_unselected_keys": true,
+    "single_contiguous_block_per_key": true,
+    "chronological_order_within_key": true,
+    "unique_record_ids": true,
+    "selected_row_values_match_source_multiset": true,
+    "source_rows_multiset_sha256_sum_mod_2_256": "a7007f6f1aa82e235a4e3ef115ff914939de68ef66f7b87f9238cde6806e7db5"
+  },
+  "archive_contains_full_source": false,
+  "files": [
+    "README.md",
+    "TASK.md",
+    "data/threadhistories_20pct_users.json",
+    "data/users-index.csv",
+    "data/dataset-profile.json",
+    "manifest.json",
+    "SHA256SUMS.txt"
+  ]
+}

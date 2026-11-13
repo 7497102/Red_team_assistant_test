@@ -1,0 +1,162 @@
+{
+  "rule_version": "1.0",
+  "sample_seed": "20261105",
+  "source_hashes": [
+    "aed3aa1fdbf5ad39cbebcafb32e02f7a8e5a7b41c9310e4c1e93564c587fae00"
+  ],
+  "scope": {
+    "deleted_at": "null only",
+    "excluded_key": null,
+    "timezone": "unknown"
+  },
+  "profile": {
+    "records": 6875,
+    "roles": {
+      "assistant": 3452,
+      "user": 3423
+    },
+    "keys": 625,
+    "date_min": "2025-12-15 14:46:05",
+    "date_max": "2026-11-04 14:50:41",
+    "months": {
+      "2025-12": 18,
+      "2026-01": 64,
+      "2026-02": 163,
+      "2026-03": 125,
+      "2026-04": 180,
+      "2026-05": 269,
+      "2026-06": 245,
+      "2026-07": 492,
+      "2026-08": 658,
+      "2026-09": 832,
+      "2026-10": 2360,
+      "2026-11": 1469
+    },
+    "user_languages": {
+      "ru-RU": 1854,
+      "uz-UZ": 1515,
+      "tr-TR": 13,
+      "ar-SA": 25,
+      "es-ES": 16
+    },
+    "missing": {
+      "id": {
+        "null": 0,
+        "blank": 0
+      },
+      "usersid_hash": {
+        "null": 0,
+        "blank": 0
+      },
+      "role": {
+        "null": 0,
+        "blank": 0
+      },
+      "text": {
+        "null": 0,
+        "blank": 40
+      },
+      "actions": {
+        "null": 0,
+        "blank": 3463
+      },
+      "created_at": {
+        "null": 0,
+        "blank": 0
+      },
+      "deleted_at": {
+        "null": 6875,
+        "blank": 0
+      },
+      "user_language": {
+        "null": 0,
+        "blank": 0
+      }
+    },
+    "top10_user_message_fraction": 0.1200701139351446
+  },
+  "media": {
+    "messages": 217,
+    "keys": 82,
+    "denominator_user_messages": 3423,
+    "denominator_keys": 618,
+    "message_fraction": 0.06339468302658487,
+    "language_counts": {
+      "ru-RU": 158,
+      "uz-UZ": 59
+    }
+  },
+  "repeats": {
+    "messages": 24,
+    "keys": 18,
+    "denominator_user_messages": 3423,
+    "denominator_keys": 618,
+    "message_fraction": 0.007011393514460999,
+    "language_counts": {
+      "ru-RU": 19,
+      "uz-UZ": 5
+    }
+  },
+  "repeat_windows": {
+    "30": {
+      "messages": 12,
+      "keys": 11,
+      "denominator_user_messages": 3423,
+      "denominator_keys": 618,
+      "message_fraction": 0.0035056967572304996,
+      "language_counts": {
+        "ru-RU": 9,
+        "uz-UZ": 3
+      }
+    },
+    "60": {
+      "messages": 19,
+      "keys": 15,
+      "denominator_user_messages": 3423,
+      "denominator_keys": 618,
+      "message_fraction": 0.005550686532281624,
+      "language_counts": {
+        "ru-RU": 15,
+        "uz-UZ": 4
+      }
+    },
+    "120": {
+      "messages": 24,
+      "keys": 18,
+      "denominator_user_messages": 3423,
+      "denominator_keys": 618,
+      "message_fraction": 0.007011393514460999,
+      "language_counts": {
+        "ru-RU": 19,
+        "uz-UZ": 5
+      }
+    }
+  },
+  "repeat_without_intervening_assistant": 1,
+  "exclude_most_active": {
+    "key": "$2b$10$RS7Rl0YTP/fpZtCpJu7vle9iQJYMYwI2OXNykbnZBJG84JJLPSH7W",
+    "user_messages": 97,
+    "media": {
+      "messages": 180,
+      "keys": 81,
+      "denominator_user_messages": 3326,
+      "denominator_keys": 617,
+      "message_fraction": 0.054119061936259774,
+      "language_counts": {
+        "ru-RU": 121,
+        "uz-UZ": 59
+      }
+    },
+    "repeats": {
+      "messages": 22,
+      "keys": 17,
+      "denominator_user_messages": 3326,
+      "denominator_keys": 617,
+      "message_fraction": 0.00661455201443175,
+      "language_counts": {
+        "ru-RU": 17,
+        "uz-UZ": 5
+      }
+    }
+  }
+}

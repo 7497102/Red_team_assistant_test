@@ -1,0 +1,192 @@
+[
+  {
+    "slug": "media",
+    "title": "Запросы открытия и воспроизведения медиаконтента",
+    "rule_version": "1.0",
+    "counts": {
+      "messages": 5430,
+      "keys": 573,
+      "denominator_user_messages": 130934,
+      "denominator_keys": 999,
+      "message_fraction": 0.04147127560450303,
+      "language_counts": {
+        "ru-RU": 3269,
+        "<null>": 12,
+        "uz-UZ": 2149
+      }
+    },
+    "scope": {
+      "deleted_at": "all historical records",
+      "excluded_key": null,
+      "timezone": "unknown"
+    },
+    "period": [
+      "2024-09-06 09:51:13",
+      "2026-11-04 14:50:41"
+    ],
+    "conclusion": "Медиаконтент — повторяющаяся потребность, подтверждённая примерами на двух языках. 5430 — частота лексического правила, не всех медиазапросов.",
+    "examples": [
+      {
+        "id": 948963,
+        "url": "/admin/histories/historyrecord/948963/change/"
+      },
+      {
+        "id": 306734,
+        "url": "/admin/histories/historyrecord/306734/change/"
+      },
+      {
+        "id": 201731,
+        "url": "/admin/histories/historyrecord/201731/change/"
+      },
+      {
+        "id": 884611,
+        "url": "/admin/histories/historyrecord/884611/change/"
+      },
+      {
+        "id": 233050,
+        "url": "/admin/histories/historyrecord/233050/change/"
+      }
+    ],
+    "counterexample_id": 233050,
+    "next_experiment": "Проверить на наблюдаемых задачах сценарий: сервис + исполнитель/название + одно уточнение при неоднозначности. Измерять завершение задания и повторные обращения; выполнение подтвердить наблюдением или телеметрией.",
+    "review_status": "AI-reviewed examples; independent human validation not performed",
+    "unit": "matching user message; repeat unit is the later message of a pair",
+    "without_most_active_key": {
+      "messages": 5417,
+      "keys": 572,
+      "denominator_user_messages": 128512,
+      "denominator_keys": 998,
+      "message_fraction": 0.04215170567729084,
+      "language_counts": {
+        "ru-RU": 3266,
+        "<null>": 12,
+        "uz-UZ": 2139
+      }
+    },
+    "selection_rule": {
+      "role": "user",
+      "topic_regex": "музык|мусиқ|musiq|qo['’ʻ‘`ʼ]?shiq|қўшиқ|песн|youtube|ютуб|yutub|радио|radio",
+      "command_regex": "включ|постав|откро|запуст|слуш|qo['’ʻ‘`ʼʻ]?y|eshit|och|yoq|қўй|эшит|оч|ёқ",
+      "operator": "both regexes must match the original text, case-insensitive"
+    },
+    "counterexample_effect": "В записи #233050 фраза «включу музыку» сформулирована от первого лица и не является явной командой ассистенту. Лексическое правило включает неоднозначные намерения, поэтому число совпадений нельзя считать точным числом запросов на воспроизведение."
+  },
+  {
+    "slug": "repeats",
+    "title": "Повтор запроса как сигнал для исследования",
+    "rule_version": "1.0",
+    "counts": {
+      "messages": 1023,
+      "keys": 318,
+      "denominator_user_messages": 130934,
+      "denominator_keys": 999,
+      "message_fraction": 0.007813096674660515,
+      "language_counts": {
+        "ru-RU": 581,
+        "uz-UZ": 440,
+        "<null>": 1,
+        "ar-SA": 1
+      }
+    },
+    "scope": {
+      "deleted_at": "all historical records",
+      "excluded_key": null,
+      "timezone": "unknown"
+    },
+    "period": [
+      "2024-09-06 09:51:13",
+      "2026-11-04 14:50:41"
+    ],
+    "conclusion": "Гипотеза о том, что каждый быстрый повтор означает ошибку, не подтверждается. Есть сигналы нерешённой задачи и явные альтернативные объяснения.",
+    "examples": [
+      {
+        "id": 413422,
+        "url": "/admin/histories/historyrecord/413422/change/"
+      },
+      {
+        "id": 667989,
+        "url": "/admin/histories/historyrecord/667989/change/"
+      },
+      {
+        "id": 316759,
+        "url": "/admin/histories/historyrecord/316759/change/"
+      },
+      {
+        "id": 457699,
+        "url": "/admin/histories/historyrecord/457699/change/"
+      },
+      {
+        "id": 130993,
+        "url": "/admin/histories/historyrecord/130993/change/"
+      }
+    ],
+    "counterexample_id": 130993,
+    "next_experiment": "Сопоставить повторные команды с журналом исполнения и подтверждением пользователя. Отдельно исследовать пустой ответ и явное отсутствие поддержки команды; не называть долю повторов долей ошибок.",
+    "review_status": "AI-reviewed examples; independent human validation not performed",
+    "unit": "matching user message; repeat unit is the later message of a pair",
+    "without_most_active_key": {
+      "messages": 1015,
+      "keys": 317,
+      "denominator_user_messages": 128512,
+      "denominator_keys": 998,
+      "message_fraction": 0.007898095119521912,
+      "language_counts": {
+        "ru-RU": 576,
+        "uz-UZ": 437,
+        "<null>": 1,
+        "ar-SA": 1
+      }
+    },
+    "selection_rule": {
+      "order": [
+        "usersid_hash",
+        "created_at",
+        "id"
+      ],
+      "comparison": "consecutive user messages of the same key; assistant records may intervene",
+      "normalization": "NFKC, lowercase, punctuation and symbols to spaces, collapse whitespace",
+      "condition": "identical nonempty normalized text, timestamp gap 0..120 seconds inclusive"
+    },
+    "counterexample_effect": "В записи #130993 пользователь повторяет благодарность после вежливого ответа ассистента. Этот случай показывает, что повтор сообщения сам по себе не доказывает ошибку продукта.",
+    "window_sensitivity": {
+      "30": {
+        "messages": 604,
+        "keys": 222,
+        "denominator_user_messages": 130934,
+        "denominator_keys": 999,
+        "message_fraction": 0.004613011135381185,
+        "language_counts": {
+          "ru-RU": 327,
+          "uz-UZ": 276,
+          "ar-SA": 1
+        }
+      },
+      "60": {
+        "messages": 898,
+        "keys": 297,
+        "denominator_user_messages": 130934,
+        "denominator_keys": 999,
+        "message_fraction": 0.00685841721783494,
+        "language_counts": {
+          "ru-RU": 503,
+          "uz-UZ": 393,
+          "<null>": 1,
+          "ar-SA": 1
+        }
+      },
+      "120": {
+        "messages": 1023,
+        "keys": 318,
+        "denominator_user_messages": 130934,
+        "denominator_keys": 999,
+        "message_fraction": 0.007813096674660515,
+        "language_counts": {
+          "ru-RU": 581,
+          "uz-UZ": 440,
+          "<null>": 1,
+          "ar-SA": 1
+        }
+      }
+    }
+  }
+]

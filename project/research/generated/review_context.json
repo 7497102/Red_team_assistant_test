@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 683038,
+    "records": [
+      {
+        "id": 683037,
+        "usersid_hash": "$2b$12$2gxaWznYNtYPfpozO4FZY.dZyddk05Goct0E/ox.HK19UaTWnye4m",
+        "role": "user",
+        "text": "bugun toshkentda ob havo qanday",
+        "actions": "",
+        "created_at": "2026-05-11 03:09:21",
+        "deleted_at": "2026-05-11 04:13:42",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 683038,
+        "usersid_hash": "$2b$12$2gxaWznYNtYPfpozO4FZY.dZyddk05Goct0E/ox.HK19UaTWnye4m",
+        "role": "user",
+        "text": "bugun toshkentda ob havo qanday",
+        "actions": "",
+        "created_at": "2026-05-11 03:10:30",
+        "deleted_at": "2026-05-11 04:13:42",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 176909,
+    "records": [
+      {
+        "id": 176907,
+        "usersid_hash": "$2b$12$VZdDhqYENTChcY.PM4cxe.lw4qNlHM2Hc5XizmnznjW5DNSBvkcHG",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2025-04-14 02:58:44",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 176908,
+        "usersid_hash": "$2b$12$VZdDhqYENTChcY.PM4cxe.lw4qNlHM2Hc5XizmnznjW5DNSBvkcHG",
+        "role": "assistant",
+        "text": "|Uzr, lekin ko'rinadi bu yerda hech qanday kod mavjud emas. Yana qanday yordam berishim mumkin?",
+        "actions": "|",
+        "created_at": "2025-04-14 02:58:48",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 176909,
+        "usersid_hash": "$2b$12$VZdDhqYENTChcY.PM4cxe.lw4qNlHM2Hc5XizmnznjW5DNSBvkcHG",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2025-04-14 02:59:42",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 413422,
+    "records": [
+      {
+        "id": 413420,
+        "usersid_hash": "$2b$12$iRCx8GPp6WQYTFtXwxXYuuEXp7i0DasJCygmNvpuMhSj7K36f7Sz6",
+        "role": "user",
+        "text": "madina tashqi chironi oʻchirdi",
+        "actions": "",
+        "created_at": "2026-02-11 12:52:45",
+        "deleted_at": "2026-02-11 13:45:37",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 413421,
+        "usersid_hash": "$2b$12$iRCx8GPp6WQYTFtXwxXYuuEXp7i0DasJCygmNvpuMhSj7K36f7Sz6",
+        "role": "assistant",
+        "text": "|Kechirasiz, azizim, tashqi chiroqlarni o'chirish uchun menda alohida buyruq yo'q. Agar old chiroqlarni o'chirmoqchi bo'lsangiz, buni hozircha bajara olmayman.",
+        "actions": "|",
+        "created_at": "2026-02-11 12:52:48",
+        "deleted_at": "2026-02-11 13:45:37",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 413422,
+        "usersid_hash": "$2b$12$iRCx8GPp6WQYTFtXwxXYuuEXp7i0DasJCygmNvpuMhSj7K36f7Sz6",
+        "role": "user",
+        "text": "madina tashqi chironi oʻchirdi",
+        "actions": "",
+        "created_at": "2026-02-11 12:53:14",
+        "deleted_at": "2026-02-11 13:45:37",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 316759,
+    "records": [
+      {
+        "id": 316755,
+        "usersid_hash": "$2b$12$Ez0CTJrUQ5Iq9GZqNODQXulIZUqfAOlTjIL/ddIMcLbk50TKMSmua",
+        "role": "user",
+        "text": "menga musiqa qoʻyib ber",
+        "actions": "",
+        "created_at": "2025-12-19 14:26:57",
+        "deleted_at": "2025-12-22 22:22:09",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 316756,
+        "usersid_hash": "$2b$12$Ez0CTJrUQ5Iq9GZqNODQXulIZUqfAOlTjIL/ddIMcLbk50TKMSmua",
+        "role": "assistant",
+        "text": "|Albatta, hozir siz uchun Yandex Musicni ochaman! Qanday musiqa tinglashni xohlaysiz?",
+        "actions": "6L|",
+        "created_at": "2025-12-19 14:26:58",
+        "deleted_at": "2025-12-22 22:22:09",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 316759,
+        "usersid_hash": "$2b$12$Ez0CTJrUQ5Iq9GZqNODQXulIZUqfAOlTjIL/ddIMcLbk50TKMSmua",
+        "role": "user",
+        "text": "menga musiqa qoʻyib ber",
+        "actions": "",
+        "created_at": "2025-12-19 14:27:36",
+        "deleted_at": "2025-12-22 22:22:09",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 129338,
+    "records": [
+      {
+        "id": 129334,
+        "usersid_hash": "$2b$12$DxxLwsutsiiJwkWx62I8qugU0TLFoxXdqLGA/oXVeSRhWTIhfGZxx",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2025-01-21 12:45:31",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 129336,
+        "usersid_hash": "$2b$12$DxxLwsutsiiJwkWx62I8qugU0TLFoxXdqLGA/oXVeSRhWTIhfGZxx",
+        "role": "assistant",
+        "text": "|Kechirasiz, bu savolni tushunmadim. Yordam bera oladigan boshqa biror narsa bormi?",
+        "actions": "|",
+        "created_at": "2025-01-21 12:45:35",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 129338,
+        "usersid_hash": "$2b$12$DxxLwsutsiiJwkWx62I8qugU0TLFoxXdqLGA/oXVeSRhWTIhfGZxx",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2025-01-21 12:45:54",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 265751,
+    "records": [
+      {
+        "id": 265750,
+        "usersid_hash": "$2b$12$ywrJeh9v84.pMnCWesGTge6soBNTvErQm19rseYs4avrozlSev3SG",
+        "role": "user",
+        "text": "assalomu alaykum",
+        "actions": "",
+        "created_at": "2025-10-31 04:58:19",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 265751,
+        "usersid_hash": "$2b$12$ywrJeh9v84.pMnCWesGTge6soBNTvErQm19rseYs4avrozlSev3SG",
+        "role": "user",
+        "text": "assalomu alaykum",
+        "actions": "",
+        "created_at": "2025-10-31 04:59:27",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 406192,
+    "records": [
+      {
+        "id": 406190,
+        "usersid_hash": "$2a$12$athc60xzv/XT7OJLnk4peObDI2bPok3ZkeCYar8Xa8jE01ENPP5GK",
+        "role": "user",
+        "text": "ertaga andijondagi ob havoni ayt",
+        "actions": "",
+        "created_at": "2026-02-08 16:05:27",
+        "deleted_at": "2026-03-19 11:26:36",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 406191,
+        "usersid_hash": "$2a$12$athc60xzv/XT7OJLnk4peObDI2bPok3ZkeCYar8Xa8jE01ENPP5GK",
+        "role": "assistant",
+        "text": "|Albatta, azizim! Ertaga Andijonda havo bulutli bo'ladi, harorat kunduzi 4 darajadan 11 darajagacha yetishi kutilmoqda. Yomg'ir yog'maydi, shuning uchun yengil kiyinib chiqsangiz bo'ladi!",
+        "actions": "|",
+        "created_at": "2026-02-08 16:05:31",
+        "deleted_at": "2026-03-19 11:26:36",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 406192,
+        "usersid_hash": "$2a$12$athc60xzv/XT7OJLnk4peObDI2bPok3ZkeCYar8Xa8jE01ENPP5GK",
+        "role": "user",
+        "text": "ertaga andijondagi ob havoni ayt",
+        "actions": "",
+        "created_at": "2026-02-08 16:05:38",
+        "deleted_at": "2026-03-19 11:26:36",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1139337,
+    "records": [
+      {
+        "id": 1139331,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "user",
+        "text": "navigasyon",
+        "actions": "",
+        "created_at": "2026-09-05 16:43:23",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1139332,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "assistant",
+        "text": "|Navigatsiyani ochyapman~{'internet': 0}}",
+        "actions": "J7|",
+        "created_at": "2026-09-05 16:43:24",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1139337,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "user",
+        "text": "navigasyon",
+        "actions": "",
+        "created_at": "2026-09-05 16:43:35",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 852366,
+    "records": [
+      {
+        "id": 852364,
+        "usersid_hash": "$2b$12$73wuj9nXmieVeZ/EHb.rDOJ1ONGDttyj4BfKOPvKERh.WupBCeJEe",
+        "role": "user",
+        "text": "chiroqmi yoʻq",
+        "actions": "",
+        "created_at": "2026-06-29 18:55:47",
+        "deleted_at": "2026-06-29 19:02:29",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 852365,
+        "usersid_hash": "$2b$12$73wuj9nXmieVeZ/EHb.rDOJ1ONGDttyj4BfKOPvKERh.WupBCeJEe",
+        "role": "assistant",
+        "text": "|Ichki chiroqlarni o‘chirayapman",
+        "actions": "G6|",
+        "created_at": "2026-06-29 18:55:47",
+        "deleted_at": "2026-06-29 19:02:29",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 852366,
+        "usersid_hash": "$2b$12$73wuj9nXmieVeZ/EHb.rDOJ1ONGDttyj4BfKOPvKERh.WupBCeJEe",
+        "role": "user",
+        "text": "chiroqmi yoʻq",
+        "actions": "",
+        "created_at": "2026-06-29 18:55:59",
+        "deleted_at": "2026-06-29 19:02:29",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 865484,
+    "records": [
+      {
+        "id": 865482,
+        "usersid_hash": "$2b$12$DXRqdL26ZKHFTgTSRodpyeuKkoimkDwBibaL4Es/bOOifV05a/TTy",
+        "role": "user",
+        "text": "shunaqa mutaxassislarni qaerdan topsam boʻladi",
+        "actions": "",
+        "created_at": "2026-07-03 08:41:29",
+        "deleted_at": "2026-07-04 11:14:09",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 865483,
+        "usersid_hash": "$2b$12$DXRqdL26ZKHFTgTSRodpyeuKkoimkDwBibaL4Es/bOOifV05a/TTy",
+        "role": "assistant",
+        "text": "|Ular uchun LinkedIn kabi professional tarmoqlarga, IT-konsalting firmalariga yoki frilans platformalariga murojaat qilishingiz mumkin. U yerda malakali mutaxassislarni topishingiz oson bo'ladi. ",
+        "actions": "|",
+        "created_at": "2026-07-03 08:41:32",
+        "deleted_at": "2026-07-04 11:14:09",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 865484,
+        "usersid_hash": "$2b$12$DXRqdL26ZKHFTgTSRodpyeuKkoimkDwBibaL4Es/bOOifV05a/TTy",
+        "role": "user",
+        "text": "shunaqa mutaxassislarni qaerdan topsam boʻladi",
+        "actions": "",
+        "created_at": "2026-07-03 08:41:59",
+        "deleted_at": "2026-07-04 11:14:09",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 94039,
+    "records": [
+      {
+        "id": 94037,
+        "usersid_hash": "$2b$12$pNC2R/uEOdszQHhw8MTCkuYsyVxYI6D26865ctVC7eIaJzyERiQLe",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-12-07 10:22:36",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 94038,
+        "usersid_hash": "$2b$12$pNC2R/uEOdszQHhw8MTCkuYsyVxYI6D26865ctVC7eIaJzyERiQLe",
+        "role": "assistant",
+        "text": "|Salom! Yordam berish uchun shu yerda turibman. Nimaga muhtoj ekaningizni ayting.",
+        "actions": "|",
+        "created_at": "2024-12-07 10:22:37",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 94039,
+        "usersid_hash": "$2b$12$pNC2R/uEOdszQHhw8MTCkuYsyVxYI6D26865ctVC7eIaJzyERiQLe",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-12-07 10:23:30",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1155372,
+    "records": [
+      {
+        "id": 1155364,
+        "usersid_hash": "$2b$12$tq3PKklvlClbfr21m175SeCwmMOuuKVQsepkBVfrzwgRX7TgZSLm6",
+        "role": "user",
+        "text": "I.",
+        "actions": "",
+        "created_at": "2026-09-09 16:18:00",
+        "deleted_at": "2026-09-09 16:24:16",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1155365,
+        "usersid_hash": "$2b$12$tq3PKklvlClbfr21m175SeCwmMOuuKVQsepkBVfrzwgRX7TgZSLm6",
+        "role": "assistant",
+        "text": "|Salom, men shu yerdaman! Qanday yordam bera olaman?",
+        "actions": "|",
+        "created_at": "2026-09-09 16:18:01",
+        "deleted_at": "2026-09-09 16:24:16",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1155372,
+        "usersid_hash": "$2b$12$tq3PKklvlClbfr21m175SeCwmMOuuKVQsepkBVfrzwgRX7TgZSLm6",
+        "role": "user",
+        "text": "I.",
+        "actions": "",
+        "created_at": "2026-09-09 16:19:28",
+        "deleted_at": "2026-09-09 16:24:16",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 1139457,
+    "records": [
+      {
+        "id": 1139455,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "user",
+        "text": "youtube ni ocher",
+        "actions": "",
+        "created_at": "2026-09-05 17:04:28",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1139456,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "assistant",
+        "text": "|YouTube ni ochyapman~{'internet': 0}}",
+        "actions": "J4|",
+        "created_at": "2026-09-05 17:04:29",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 1139457,
+        "usersid_hash": "$2b$12$9HqnH8.G/U.tAxu8xKt9Qe./TaT7XPhKQCDEaR86s.vHocpkOjse2",
+        "role": "user",
+        "text": "youtube ni ocher",
+        "actions": "",
+        "created_at": "2026-09-05 17:04:44",
+        "deleted_at": "2026-09-06 07:35:25",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 28624,
+    "records": [
+      {
+        "id": 28622,
+        "usersid_hash": "$2a$12$PU1BbhIJFawAM7bYxXKFbO7kKRulG8l4/athZrNIEAVfn7KRdZlR6",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-09-27 05:40:03",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 28623,
+        "usersid_hash": "$2a$12$PU1BbhIJFawAM7bYxXKFbO7kKRulG8l4/athZrNIEAVfn7KRdZlR6",
+        "role": "assistant",
+        "text": "|Salom! Qanday yordam bera olishim mumkin?",
+        "actions": "|",
+        "created_at": "2024-09-27 05:40:07",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 28624,
+        "usersid_hash": "$2a$12$PU1BbhIJFawAM7bYxXKFbO7kKRulG8l4/athZrNIEAVfn7KRdZlR6",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-09-27 05:41:28",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 112580,
+    "records": [
+      {
+        "id": 112579,
+        "usersid_hash": "$2b$12$PFlTfzKCkeHIsmBEOKay1OUC2FqPfv7DZgBThbvJXKJUXfwvsRhjW",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-12-29 08:06:46",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      },
+      {
+        "id": 112580,
+        "usersid_hash": "$2b$12$PFlTfzKCkeHIsmBEOKay1OUC2FqPfv7DZgBThbvJXKJUXfwvsRhjW",
+        "role": "user",
+        "text": "00|~",
+        "actions": "",
+        "created_at": "2024-12-29 08:06:50",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "uz-UZ"
+      }
+    ]
+  },
+  {
+    "id": 457699,
+    "records": [
+      {
+        "id": 457695,
+        "usersid_hash": "$2b$12$iwRm.3a5gUth6N5HTy6gU.Kiq3nnwCu.vqflVZb7vBFXLkLxaL9gq",
+        "role": "user",
+        "text": "Кто 1 президент Кыргызстана.",
+        "actions": "",
+        "created_at": "2026-02-27 16:16:49",
+        "deleted_at": "2026-02-27 16:18:44",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 457696,
+        "usersid_hash": "$2b$12$iwRm.3a5gUth6N5HTy6gU.Kiq3nnwCu.vqflVZb7vBFXLkLxaL9gq",
+        "role": "assistant",
+        "text": "|Первым президентом Кыргызстана был Аскар Акаев.",
+        "actions": "|",
+        "created_at": "2026-02-27 16:16:51",
+        "deleted_at": "2026-02-27 16:18:44",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 457699,
+        "usersid_hash": "$2b$12$iwRm.3a5gUth6N5HTy6gU.Kiq3nnwCu.vqflVZb7vBFXLkLxaL9gq",
+        "role": "user",
+        "text": "Кто 1 президент кыргызстана",
+        "actions": "",
+        "created_at": "2026-02-27 16:17:30",
+        "deleted_at": "2026-02-27 16:18:44",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 867747,
+    "records": [
+      {
+        "id": 867745,
+        "usersid_hash": "$2b$12$RcKxvsYqgjJnor/y.eihLuExTg/oME8zE5X5GjF1iRP7dz48e3ZbG",
+        "role": "user",
+        "text": "Настя открой youtube поставь мияги",
+        "actions": "",
+        "created_at": "2026-07-03 16:32:53",
+        "deleted_at": "2026-07-04 07:46:10",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 867746,
+        "usersid_hash": "$2b$12$RcKxvsYqgjJnor/y.eihLuExTg/oME8zE5X5GjF1iRP7dz48e3ZbG",
+        "role": "assistant",
+        "text": "{\n  \"method\": \"searchYoutube\",\n  \"params\": {\n    \"query\": \"мияги\"\n  }\n}",
+        "actions": "|",
+        "created_at": "2026-07-03 16:32:55",
+        "deleted_at": "2026-07-04 07:46:10",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 867747,
+        "usersid_hash": "$2b$12$RcKxvsYqgjJnor/y.eihLuExTg/oME8zE5X5GjF1iRP7dz48e3ZbG",
+        "role": "user",
+        "text": "Настя открой youtube поставь мияги",
+        "actions": "",
+        "created_at": "2026-07-03 16:33:21",
+        "deleted_at": "2026-07-04 07:46:10",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 73596,
+    "records": [
+      {
+        "id": 73587,
+        "usersid_hash": "$2b$12$EzF//6W0s5DzE8z.V3Nrxu6N2kQMmG71La/7rZlQk7UcCz5zJmw7y",
+        "role": "user",
+        "text": " Включить навигацию.",
+        "actions": "",
+        "created_at": "2024-11-16 13:29:47",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 73588,
+        "usersid_hash": "$2b$12$EzF//6W0s5DzE8z.V3Nrxu6N2kQMmG71La/7rZlQk7UcCz5zJmw7y",
+        "role": "assistant",
+        "text": "|Открываю Waze для вашей навигации. Желаете задать пункт назначения?",
+        "actions": "|",
+        "created_at": "2024-11-16 13:29:50",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 73596,
+        "usersid_hash": "$2b$12$EzF//6W0s5DzE8z.V3Nrxu6N2kQMmG71La/7rZlQk7UcCz5zJmw7y",
+        "role": "user",
+        "text": " включить навигацию.",
+        "actions": "",
+        "created_at": "2024-11-16 13:30:39",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 61958,
+    "records": [
+      {
+        "id": 61956,
+        "usersid_hash": "$2b$12$35zNq4kPMm4aORFEd2Qzk.HCwZsp6uTWV2TJ4SMtqoMcyNqFOyqQq",
+        "role": "user",
+        "text": " О!",
+        "actions": "",
+        "created_at": "2024-11-05 06:26:32",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 61957,
+        "usersid_hash": "$2b$12$35zNq4kPMm4aORFEd2Qzk.HCwZsp6uTWV2TJ4SMtqoMcyNqFOyqQq",
+        "role": "assistant",
+        "text": "|Привет! Как я могу помочь тебе сегодня?",
+        "actions": "|",
+        "created_at": "2024-11-05 06:26:36",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 61958,
+        "usersid_hash": "$2b$12$35zNq4kPMm4aORFEd2Qzk.HCwZsp6uTWV2TJ4SMtqoMcyNqFOyqQq",
+        "role": "user",
+        "text": " О!",
+        "actions": "",
+        "created_at": "2024-11-05 06:27:35",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 93595,
+    "records": [
+      {
+        "id": 93594,
+        "usersid_hash": "$2b$12$km3QO7TjKU/wYJLZvCbrB./6XGT0chFIVea8HlNEDb9vyWBIHC2QO",
+        "role": "user",
+        "text": " Закрой шторку.",
+        "actions": "",
+        "created_at": "2024-12-07 03:46:34",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 93595,
+        "usersid_hash": "$2b$12$km3QO7TjKU/wYJLZvCbrB./6XGT0chFIVea8HlNEDb9vyWBIHC2QO",
+        "role": "user",
+        "text": " Закрой шторку.",
+        "actions": "",
+        "created_at": "2024-12-07 03:46:53",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 130993,
+    "records": [
+      {
+        "id": 130991,
+        "usersid_hash": "$2b$12$VOILkJ5sDZsqM14Lr19z.unw5.iLnIGn4Ykgf9YNID1rzJVGZnI2m",
+        "role": "user",
+        "text": " Спасибо.",
+        "actions": "",
+        "created_at": "2025-01-23 14:22:05",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 130992,
+        "usersid_hash": "$2b$12$VOILkJ5sDZsqM14Lr19z.unw5.iLnIGn4Ykgf9YNID1rzJVGZnI2m",
+        "role": "assistant",
+        "text": "|Пожалуйста! Если нужно что-то еще, всегда рада помочь!",
+        "actions": "|",
+        "created_at": "2025-01-23 14:22:08",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 130993,
+        "usersid_hash": "$2b$12$VOILkJ5sDZsqM14Lr19z.unw5.iLnIGn4Ykgf9YNID1rzJVGZnI2m",
+        "role": "user",
+        "text": " Спасибо.",
+        "actions": "",
+        "created_at": "2025-01-23 14:22:08",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1070880,
+    "records": [
+      {
+        "id": 1070878,
+        "usersid_hash": "$2b$10$KFkXp9zhvcHVRvqCB0gC4.xDbWTK0kpr42y2CN5.GVvrZDZdeWKF2",
+        "role": "user",
+        "text": "Пятница открой яндекс карты",
+        "actions": "",
+        "created_at": "2026-08-20 11:26:13",
+        "deleted_at": "2026-08-20 11:28:30",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1070879,
+        "usersid_hash": "$2b$10$KFkXp9zhvcHVRvqCB0gC4.xDbWTK0kpr42y2CN5.GVvrZDZdeWKF2",
+        "role": "assistant",
+        "text": "|Открываю Яндекс карты",
+        "actions": "J7|",
+        "created_at": "2026-08-20 11:26:13",
+        "deleted_at": "2026-08-20 11:28:30",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1070880,
+        "usersid_hash": "$2b$10$KFkXp9zhvcHVRvqCB0gC4.xDbWTK0kpr42y2CN5.GVvrZDZdeWKF2",
+        "role": "user",
+        "text": "Пятница открой яндекс карты",
+        "actions": "",
+        "created_at": "2026-08-20 11:27:31",
+        "deleted_at": "2026-08-20 11:28:30",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 226679,
+    "records": [
+      {
+        "id": 226677,
+        "usersid_hash": "$2b$12$.MSZsZRD3mU91C.Sn2xP/.Tu0S6648EvkxKq3pGSGhfVb9h9XmNrG",
+        "role": "user",
+        "text": "Проложи маршрут.",
+        "actions": "",
+        "created_at": "2025-08-22 12:22:01",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 226678,
+        "usersid_hash": "$2b$12$.MSZsZRD3mU91C.Sn2xP/.Tu0S6648EvkxKq3pGSGhfVb9h9XmNrG",
+        "role": "assistant",
+        "text": "|Открываю Яндекс Навигатор и строю маршрут. Если захочешь уточнить пункт назначения — просто скажи!",
+        "actions": "2M:маршрут|",
+        "created_at": "2025-08-22 12:22:07",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 226679,
+        "usersid_hash": "$2b$12$.MSZsZRD3mU91C.Sn2xP/.Tu0S6648EvkxKq3pGSGhfVb9h9XmNrG",
+        "role": "user",
+        "text": "Проложи маршрут.",
+        "actions": "",
+        "created_at": "2025-08-22 12:22:37",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1182579,
+    "records": [
+      {
+        "id": 1182573,
+        "usersid_hash": "$2b$10$nAwPlM72enyZtbibmzMPt.9juaycoU45B4FLB4JHlDpMbwPyv0np6",
+        "role": "user",
+        "text": "Открой youtube запусти клипы",
+        "actions": "",
+        "created_at": "2026-09-16 13:26:19",
+        "deleted_at": "2026-09-18 14:39:34",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1182574,
+        "usersid_hash": "$2b$10$nAwPlM72enyZtbibmzMPt.9juaycoU45B4FLB4JHlDpMbwPyv0np6",
+        "role": "assistant",
+        "text": "|Открываю YouTube и ищу клипы",
+        "actions": "J1: клипы|",
+        "created_at": "2026-09-16 13:26:19",
+        "deleted_at": "2026-09-18 14:39:34",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1182579,
+        "usersid_hash": "$2b$10$nAwPlM72enyZtbibmzMPt.9juaycoU45B4FLB4JHlDpMbwPyv0np6",
+        "role": "user",
+        "text": "Открой youtube запусти клипы",
+        "actions": "",
+        "created_at": "2026-09-16 13:27:17",
+        "deleted_at": "2026-09-18 14:39:34",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1152461,
+    "records": [
+      {
+        "id": 1152459,
+        "usersid_hash": "$2b$12$8fEtmaAaoYlP01hPpE2RBe/6bX2jIY5AWbSlKruWWF/JzN7q62aGy",
+        "role": "user",
+        "text": "Расскажи про иссык куль",
+        "actions": "",
+        "created_at": "2026-09-09 04:39:57",
+        "deleted_at": "2026-09-09 04:45:36",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1152460,
+        "usersid_hash": "$2b$12$8fEtmaAaoYlP01hPpE2RBe/6bX2jIY5AWbSlKruWWF/JzN7q62aGy",
+        "role": "assistant",
+        "text": "|Иссык-Куль — это удивительное бессточное озеро в Кыргызстане, второе по величине соленое озеро в мире. Его вода кристально чиста, а вокруг простираются величественные горы!",
+        "actions": "|",
+        "created_at": "2026-09-09 04:39:59",
+        "deleted_at": "2026-09-09 04:45:36",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1152461,
+        "usersid_hash": "$2b$12$8fEtmaAaoYlP01hPpE2RBe/6bX2jIY5AWbSlKruWWF/JzN7q62aGy",
+        "role": "user",
+        "text": "Расскажи про иссык куль",
+        "actions": "",
+        "created_at": "2026-09-09 04:40:41",
+        "deleted_at": "2026-09-09 04:45:36",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 667989,
+    "records": [
+      {
+        "id": 667987,
+        "usersid_hash": "$2b$10$ZI5aszr8TvkpQeP4CND6AuMfvMwTYAHiOdJQvQzE8YLEQnZDeWszq",
+        "role": "user",
+        "text": "Расскажи про джастина тимберлейка",
+        "actions": "",
+        "created_at": "2026-05-07 02:54:08",
+        "deleted_at": "2026-05-11 02:57:12",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 667988,
+        "usersid_hash": "$2b$10$ZI5aszr8TvkpQeP4CND6AuMfvMwTYAHiOdJQvQzE8YLEQnZDeWszq",
+        "role": "assistant",
+        "text": "",
+        "actions": "",
+        "created_at": "2026-05-07 02:54:09",
+        "deleted_at": "2026-05-11 02:57:12",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 667989,
+        "usersid_hash": "$2b$10$ZI5aszr8TvkpQeP4CND6AuMfvMwTYAHiOdJQvQzE8YLEQnZDeWszq",
+        "role": "user",
+        "text": "Расскажи про джастина тимберлейка",
+        "actions": "",
+        "created_at": "2026-05-07 02:54:36",
+        "deleted_at": "2026-05-11 02:57:12",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 183039,
+    "records": [
+      {
+        "id": 183038,
+        "usersid_hash": "$2b$12$nCjYuP0EgBQY01gbbYGNCO7btCh7pInn7RK.dwoqjTbDFUTGKrBke",
+        "role": "user",
+        "text": " Спасибо.",
+        "actions": "",
+        "created_at": "2025-04-24 18:11:55",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 183039,
+        "usersid_hash": "$2b$12$nCjYuP0EgBQY01gbbYGNCO7btCh7pInn7RK.dwoqjTbDFUTGKrBke",
+        "role": "user",
+        "text": " Спасибо!",
+        "actions": "",
+        "created_at": "2025-04-24 18:11:56",
+        "deleted_at": "2025-12-15 08:36:52",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1311185,
+    "records": [
+      {
+        "id": 1311179,
+        "usersid_hash": "$2b$12$pjOG5QuvWnN.ELYE8SWUueunTjlD3HdWFHuDzkAPF5FZ7CI1PyL82",
+        "role": "user",
+        "text": "Открой youtube запусти фильм механик",
+        "actions": "",
+        "created_at": "2026-10-17 11:37:31",
+        "deleted_at": "2026-10-20 16:39:41",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1311180,
+        "usersid_hash": "$2b$12$pjOG5QuvWnN.ELYE8SWUueunTjlD3HdWFHuDzkAPF5FZ7CI1PyL82",
+        "role": "assistant",
+        "text": "|Открываю YouTube и ищу фильм Механик",
+        "actions": "J1:механик|",
+        "created_at": "2026-10-17 11:37:31",
+        "deleted_at": "2026-10-20 16:39:41",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1311185,
+        "usersid_hash": "$2b$12$pjOG5QuvWnN.ELYE8SWUueunTjlD3HdWFHuDzkAPF5FZ7CI1PyL82",
+        "role": "user",
+        "text": "Открой youtube запусти фильм механик",
+        "actions": "",
+        "created_at": "2026-10-17 11:38:19",
+        "deleted_at": "2026-10-20 16:39:41",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1079199,
+    "records": [
+      {
+        "id": 1079195,
+        "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+        "role": "user",
+        "text": "Алиса включи яндекс музыку",
+        "actions": "",
+        "created_at": "2026-08-22 11:04:01",
+        "deleted_at": "2026-09-28 03:34:18",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1079196,
+        "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+        "role": "assistant",
+        "text": "|Включаю Яндекс Музыку",
+        "actions": "|",
+        "created_at": "2026-08-22 11:04:01",
+        "deleted_at": "2026-09-28 03:34:18",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1079199,
+        "usersid_hash": "$2b$12$zdJCVUM7uFM/EPAo/Y4ytOI9uKe0jEfeY9ry2rsFt6m7ev/K5Vdl2",
+        "role": "user",
+        "text": "Алиса включи яндекс музыку",
+        "actions": "",
+        "created_at": "2026-08-22 11:05:02",
+        "deleted_at": "2026-09-28 03:34:18",
+        "user_language": "ru-RU"
+      }
+    ]
+  },
+  {
+    "id": 1238636,
+    "records": [
+      {
+        "id": 1238630,
+        "usersid_hash": "$2b$12$ueFS.1AGuYDq37dwDwW1PuZGOnN0oqDqZ/G1G0gPeUrgYuEBotWpm",
+        "role": "user",
+        "text": "Включи яндекс музыку",
+        "actions": "",
+        "created_at": "2026-09-29 19:07:46",
+        "deleted_at": "2026-09-30 06:17:17",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1238631,
+        "usersid_hash": "$2b$12$ueFS.1AGuYDq37dwDwW1PuZGOnN0oqDqZ/G1G0gPeUrgYuEBotWpm",
+        "role": "assistant",
+        "text": "|Конечно, открываю Яндекс Музыку для тебя!",
+        "actions": "6L|",
+        "created_at": "2026-09-29 19:07:47",
+        "deleted_at": "2026-09-30 06:17:17",
+        "user_language": "ru-RU"
+      },
+      {
+        "id": 1238636,
+        "usersid_hash": "$2b$12$ueFS.1AGuYDq37dwDwW1PuZGOnN0oqDqZ/G1G0gPeUrgYuEBotWpm",
+        "role": "user",
+        "text": "Включи Яндекс музыку.",
+        "actions": "",
+        "created_at": "2026-09-29 19:09:24",
+        "deleted_at": "2026-09-30 06:17:17",
+        "user_language": "ru-RU"
+      }
+    ]
+  }
+]
